@@ -1,7 +1,8 @@
 # Grupo12
 Bienvenidos al repositorio del Grupo 12 del curso Fundamentos de Biodiseño:
+Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar y  
 
-Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar 
+## Tematica del proyecto 
 
 
 ## Contextualización
@@ -57,6 +58,24 @@ miembro fantasma.
 
 ### ¿Cuál es la estadística de personas con esta amputación en Perú?
 En marzo de 2023, hubo 13 personas accidentadas por el contacto con la corriente eléctrica y 10 por generadores de energía eléctrica.
+
+## Metodologia 
+1. Investigación del caso clínico
+2. Contextualización y justificación 
+3. Determinación del problema
+4. Propuestas de solución
+5. Desarrollo del prototipo
+6. Prueba y corrección del prototipo. 
+7. Evalución FODA 
+## Integrantes 
+- Chavez Rivas Allen Stirs (Encargado de la electrónica)
+- Lazares Salcedo, Brayam Joe (Encargado de la parte mecánica)
+- Llanos Florian Dhiago Gustavo (Coordinador)
+- Medina Burga Yuliana Abigail (Encargado de la impresión)
+- Sanchez Valverde Mariel Linette (Encargada de la programación)
+- Vilchez Cotrina Pamela Nicole (Encargada del modelado)
+## Bibliografía 
+
 
 
 
