@@ -87,7 +87,11 @@ Aún así, el desarrollo de la creación rápida de prototipos ha dado una soluc
 
 ## Clínica de problemáticas en salud
 
-Dentro de la experiencia clínica en el Perú se ha observado que muy pocas personas con amputaciones parciales optan por usar una prótesis. Se sugiere que la falta de opciones prostéticas y pobres desempeños en el pasado limitan la prescripción o uso de una prótesis digital y/o pulgar. No hay información específica sobre la rehabilitación de un solo dedo dentro de los programas de rehabilitación, sino que en general las empresas y clínicas se adecuan a la necesidad del paciente y el tipo de prótesis. Asimismo, no existe estadística específica sobre amputación en pulgares en el Perú y en Latinoamérica por parte de las principales entidades de información.
+Teniendo en cuenta el caso clínico presentado, se menciona que el usuario presenta sensación de miembro fantasma y dolor persistente, asimismo se ve necesario tomar medidas para fortalecer la musculatura residual y favorecer actividades uni/bimanuales para facilitar sus actividades de vida diarias.
+
+Además, logramos identificar los siguientes problemas en MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
+
+Por otro lado, en cuanto a los MMSS y su amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída
 
 ## Problemática
 
