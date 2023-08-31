@@ -17,7 +17,7 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 
 ## Roles de los integrantes del proyecto
-- Chavez Rivas Allen Stirs (Encargado de la electrónica y progra)
+- Chavez Rivas Allen Stirs (Encargado de la electrónica y programación)
 - Lazares Salcedo, Brayam Joe (Encargado de manufactura digital y programación)
 - Llanos Florian Dhiago Gustavo (Coordinador y encargado de manufactura digital)
 - Medina Burga Yuliana Abigail (Encargada del modelado del prototipado y programación)
@@ -46,14 +46,13 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 Teniendo en cuenta el caso clínico presentado, se menciona que el usuario presenta sensación de miembro fantasma y dolor persistente, asimismo se ve necesario tomar medidas para fortalecer la musculatura residual y favorecer actividades uni/bimanuales para facilitar sus actividades de vida diarias.
 
-Además, logramos identificar los siguientes problemas en MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
+Además, logramos identificar los siguientes problemas de MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
 
-Por otro lado, en cuanto a los MMSS y su amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída
+Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída
 
 ## Problemática
 
-Baja fuerza de agarre debido a amputación transmetacarpiana del pulgar en adultos con alta actividad laboral manual
-
+Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la amputación transmetacarpiana en adultos con alta actividad laboral manual 
 
 ## Estado del arte científico
 
