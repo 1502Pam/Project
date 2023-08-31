@@ -1,5 +1,9 @@
 # Grupo12
-Bienvenidos al repositorio del Grupo 12 del curso Fundamentos de Biodiseño:
+
+<image src ="Imágenes/logo.jpeg">
+ 
+Bienvenidos al repositorio del Grupo 12 del curso Fundamentos de Biodiseño
+
 Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Tabla de contenido
