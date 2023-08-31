@@ -32,7 +32,7 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 | Accidentes de trabajo | Especificación | Cantidad de personas afectadas | Fecha de registro de datos |
 | ------------- | ------------- | ------------- | -------------- |
 | Agente causante  | generador de energía excepto motores eléctricos | 10 | Marzo 2023 |
-                     contacto con la corriente eléctrica  | 13 | Marzo 2023 |
+| Agente causante  | contacto con la corriente eléctrica  | 13 | Marzo 2023 |
 | Naturaleza de la lesión | Amputación | 20 | Marzo 2023 |
 | Parte del cuerpo afectada | dedos de la mano | 411 | Abril 2023 |
 | Partes del cuerpo afectada | mano (excepción de los dedos solos) | 139 | Abril 2023 |
