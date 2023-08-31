@@ -6,14 +6,14 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Tabla de contenido
 
-- [Roles de los integrantes del proyecto](#Roles_de_los_integrantes_del_proyecto).
-- [Análisis del caso](#Análisis_del_caso).
-- [Clínica de problemáticas en salud](#Clínica_de_problemáticas_en_salud).
-- [Problemática](#Problemática).
-- [Estado del arte científico](#Estado_del_arte_científico).
-- [Propuesta de solución](#Propuesta_de_solución)
-- [Docentes del curso](#Docentes_del_curso).
-- [Bibliografía](#Bibliografía).
+- [Roles de los integrantes del proyecto](##Roles_de_los_integrantes_del_proyecto).
+- [Análisis del caso](##Análisis_del_caso).
+- [Clínica de problemáticas en salud](##Clínica_de_problemáticas_en_salud).
+- [Problemática](##Problemática).
+- [Estado del arte científico](##Estado_del_arte_científico).
+- [Propuesta de solución](##Propuesta_de_solución)
+- [Docentes del curso](##Docentes_del_curso).
+- [Bibliografía](##Bibliografía).
 
 
 ## Roles de los integrantes del proyecto
