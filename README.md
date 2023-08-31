@@ -1,4 +1,4 @@
-# Grupo12
+# Equipo 12
 
 <image src ="Imágenes/logo.jpeg">
  
