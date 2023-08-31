@@ -9,30 +9,25 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 ## Tabla de contenido
 
 - [Roles de los integrantes del proyecto](#Roles_de_los_integrantes_del_proyecto).
-- [Análisis del caso clínico](#Análisis_del_caso_clínico).
-- [¿Contextualización](#Contextualización).
+- [Análisis del caso](#Análisis_del_caso).
 - [Clínica de problemáticas en salud](#Clínica_de_problemáticas_en_salud).
 - [Problemática](#Temática_del_proyecto).
-- [Estado del arte](#Estado_del_arte).
+- [Estado del arte científico](#Estado_del_arte_científico).
 - [Propuesta de solución](#Propuesta_de_solución)
-- [Evaluación FODA](#Evaluación_FODA)
 - [Docentes del curso](#Docentes_del_curso).
 - [Bibliografía](#Bibliografía).
 
 
 ## Roles de los integrantes del proyecto
 - Chavez Rivas Allen Stirs (Encargado de la electrónica y progra)
-- Lazares Salcedo, Brayam Joe (Encargado de la impresión del prototipado y programación)
+- Lazares Salcedo, Brayam Joe (Encargado de manufactura digital y programación)
 - Llanos Florian Dhiago Gustavo (Coordinador e investigador)
 - Medina Burga Yuliana Abigail (Encargada del modelado del prototipado y programación)
-- Sanchez Valverde Mariel Linette (Encargada de programación y repertorio Github)
-- Vilchez Cotrina Pamela Nicole (Encargada del repertorio Github y electrónica)
+- Sanchez Valverde Mariel Linette (Encargada de programación y repositorio Github)
+- Vilchez Cotrina Pamela Nicole (Encargada del repositorio Github y electrónica)
+
 
 ## Análisis del caso clínico
-
-
-
-## Contextualización
 
 Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, en el Perú, durante el mes de marzo del 2023, hubieron 13 personas que sufrieron accidentes de trabajo por el contacto con la corriente eléctrica y 10 que fueron por generadores de energía eléctrica
 
@@ -101,72 +96,18 @@ Dentro de la experiencia clínica en el Perú se ha observado que muy pocas pers
 Baja fuerza de agarre debido a amputación transmetacarpiana del pulgar en adultos con alta actividad laboral manual
 
 
-## Estado del arte
-
-En los últimos años han habido avances significativos en el desarrollo de prótesis de mano parcial. Las compañías tecnológicas han diseñado diferentes prototipos el cual buscan incrementar la calidad de vida de las personas restaurando la funcionalidad de la extremidad perdida. Por lo que a continuación se presentará un panorama actualizado en cuanto a tecnología existente.
-
-### Titan Thumb (4B)
-
-- By: Partial Hand Solutions
-- Tipo de prótesis: Pasiva o de aposición
-- Materiales: Montura rotacional de acero inoxidable, inserto de trinquete de titanio y sección de punta de titanio.
-- Uso: Aplicar presión a la parte posterior de la punta del pulgar lo que provocará su flexión. Una vez ajustada a la posición deseada, esta quedará bloqueada en dicha posición. Para regresar a extensión, el usuario ha de dislocar la punta al jalar de ella, esto liberará un alfiler en la sección de la punta que permitirá el libre movimiento.
-- Propósito: Proveer a personas que les falte todo el pulgar la opción de brindar agarre activo nuevamente.
-- Limpieza: Diaria. Con una toallitas antibacterianas sin fragancia.
-- Detalles extra: 
-  - Requiere de la otra mano para ser manipulada, en caso esta última se encuentre dañada, esta prótesis es contraindicada. 
-  - Los nuevos han de comenzar con un horario de uso y llegar a un día completo de uso
-
-<image src ="Imágenes/8_2023-08-31 125225.jpg">
-
-###  M-Thumb (4B)
-
-- By: Partial Hand Solutions
-- Tipo de prótesis: Pasiva o de aposición
-- Materiales: No especificada. Apariencia Polimérica
-- Uso: Ajustar el pulgar a la posición deseada, si se requiere de mayor resistencia a la fricción se inserta un alfiler. En caso se requiera de mayor resistencia rotacional, se remueve el alfiler y se reposiciona.
-- Propósito: Proveer una mejora considerable en el funcionamiento de la mano al proporcionar la mayor destreza posible. Agarrar con precisión y facilidad pequeños objetos gracias a una uña incorporada.
-- Limpieza: Diaria. Con una toallitas antibacterianas sin fragancia.
-- Detalles extra: 
-  - Requiere de la otra mano para ser utilizada, reubicada y retirada.
-  - Los nuevos han de comenzar con un horario de uso y llegar a un día completo.
-  - Precio: 3112.00 dólares
-
-<image src ="Imágenes/9_2023-08-31 125305.jpg">
-
-### El tercer pulgar (B5)
-
-- By: Danielle Clode
-- Tipo de prótesis: Externally-Powered
-- Materiales: 3D Printed. Dos motores fijos a una muñequera que permite control independiente sobre flexión y aducción. Una batería sujeta al brazo que alimenta al dispositivo. Dos sensores de fuerza inalámbricos fijados alrededor de los dedos del pie. 
-- Usos: Es controlado por sensores de presión fijados en la parte inferior de los dedos gordos del pie. Estos sensores son alimentados por baterías fijadas alrededor de cada tobillo. La presión ejercida por los dedos es proporcional al movimiento generado, donde el derecho provoca la flexión y el izquierdo la aducción. 
-- Propósito: Ampliar el repertorio manual de movimientos de la mano.
-- Limpieza: Sin especificaciones.
-- Detalles extra:
-  - Requiere sesiones de entrenamiento diario de alta actividad manual y retos diseñados para introducir complejas interacciones mano-robot.
-  - Durante el entrenamiento, varias personas reportaron sentir el pulgar extra como parte de su cuerpo
-  - El uso a largo plazo del pulgar extra puede tener un significativo impacto en la representación propia de la mano
-
-<image src ="Imágenes/10_2023-08-31 125352.jpg">
-
-  
-## Propuesta de solución
-
-
-
-## Evaluación FODA
-
+## Estado del arte científico
 
 
 ## Docentes del curso
 
-- PAULO CAMILO ALBERTO VELA ANTON
-- RENZO JOSE CHAN RIOS
-- UMBERT LEWIS DE LA CRUZ RODRIGUEZ
-- JUAN MANUEL ZUÑIGA MAMANI
-- JOSE ALONSO CACERES DEL AGUILA
-- ANDRES ARTURO RODRIGUEZ DE VELASCO
-- YENI VARILLAS TACZA
+- Paulo Camilo Alberto Vela Anton
+- Renzo Jose Chan Rios
+- Umberto Lewis De la Cruz Rodriguez
+- Juan Manuel Zuñiga Mamamni
+- Jose Alonso Caceres del Aguila
+- Andres Arturo Rodrigo de Velasco
+- Yeni Varillas Tacza
 
 ## Bibliografía 
 
