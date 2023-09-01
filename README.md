@@ -59,6 +59,8 @@ Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos per
 | Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del miembro amputado | |
 
+
+Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos pacientes amputados.
 Por ello, la impresión 3D es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (8).
 
 
