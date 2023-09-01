@@ -1,4 +1,4 @@
-![image](https://github.com/1502Pam/Project/assets/143018547/0ffca9b8-b775-46be-a6d5-fc9f989cc2c9)# Equipo 12
+# Equipo 12
 
 Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
