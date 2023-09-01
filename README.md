@@ -78,19 +78,22 @@ Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desartic
 Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la amputación transmetacarpiana en adultos con alta actividad laboral manual 
 
 ## Estado del arte científico
-1. El tercer pulgar (10) <image src ="Imagenes/10_2023-08-31 125352.jpg">
+1. El tercer pulgar (10)
 
 Se llevó a cabo una investigación orientada a determinar la viabilidad de alcanzar una mejora motora exitosa mediante la adición de un pulgar robótico suplementario, y a su vez, explorar las implicaciones que ello conlleva tanto en la representación neuronal como en la funcionalidad de la mano biológica. 
 Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, además los participantes fueron sometidos a una serie de evaluaciones que abarcan pruebas de imágenes cerebrales y de comportamiento con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
 Los resultados revelaron notables avances en términos del control motor del tercer pulgar,  destreza, coordinación entre la mano-dispositivo y “encarnación”. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica. Adicionalmente, a través de la decodificación de las señales cerebrales, se identificó una ligera alteración en la representación motora del miembro amplificado tras el periodo de entrenamiento, inclusive en momentos en los cuales el tercer pulgar no era empleado activamente. Estas ramificaciones neurocognitivas revisten vital importancia para el exitoso desarrollo de futuras tecnologías de amplificación.
 
-2. Muscle Finger - Open source (11) <image src ="Imagenes/1_2023-08-31 at 23.54.39.jpeg">
+2. Muscle Finger - Open source (11)
 
 Open muscle finger es una fuente abierta desarrollada por TurfptaX con elementos eléctricos muy básicos y accesibles. Donde a partir del uso de 12 sensores que se ubican el brazo desencadena el movimiento de los dedos protésicos, todo esto a partir de un código en Machine learning qué colección y procesa los datos de manera automática. Las ventajas son la disponibilidad y adaptabilidad para el público; sin embargo, aún se sigue trabajando en la cosmesis del hardware. 
 
 3. Brazalete EMG (12)
    
-En el artículo se sugiere mover un prototipo de prótesis de mano bajo control mediante una funda EMG comercial. La unidad principal es un subsistema basado en Raspberry Pi conectado a una pulsera EMG para recopilar y clasificar la información de la actividad muscular del usuario. El bloque esclavo es un subsistema basado en un microcontrolador ATmega328 que determina el movimiento del manipulador en función de la información recopilada y procesada por el dispositivo maestro. El objetivo de los resultados experimentales es evaluar el desempeño de prótesis de mano controladas por EMG en diferentes tipos de tareas de agarre.
+El brazalete EMG para el control de movimiento de una prótesis de mano prototipo tiene un diseño mecánico que se basa en una mano de seis grados de libertad de código abierto con modificaciones propuestas en los dispositivos de accionamiento y transmisión de energía para reducir los costos del prototipo y proporcionar una mayor movilidad al pulgar para adaptar el movimiento a la forma del objeto agarrado. A diferencia de prototipos similares, se utiliza un sistema de hardware portátil basado en la arquitectura maestro/esclavo en lugar de una PC para la adquisición y procesamiento de los datos EMG. 
+El dispositivo maestro propuesto es un subsistema basado en Raspberry Pi interfaz con el brazalete EMG para recopilar y clasificar información de la actividad muscular del usuario. Por otro lado, el dispositivo esclavo es un subsistema basado en microcontrolador ATmega328 que define los movimientos de la mano robótica a partir de la información recopilada y procesada por el dispositivo maestro. 
+
+De ello se obtuvieron resultados experimentales para evaluar el rendimiento de la prótesis de mano controlada por EMG realizando diferentes tipos de tareas de agarre y se confirmó que era funcional y mucho más barato que otros en el mercado (612.10 US dólares a comparación de 2991.65 dólares).
 
 ## Docentes del curso
 
