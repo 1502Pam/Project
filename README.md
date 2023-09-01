@@ -33,13 +33,13 @@ Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Traba
 
 | Accidentes de trabajo | Especificación | Cantidad de personas afectadas | Fecha de registro de datos |
 | ------------- | ------------- | ------------- | -------------- |
-| Agente causante  | generador de energía excepto motores eléctricos | 10 | Marzo 2023 |
-|   | contacto con la corriente eléctrica  | 13 | Marzo 2023 |
-| Naturaleza de la lesión | amputación | 20 | Marzo 2023 |
-| Parte del cuerpo afectada | dedos de la mano | 411 | Abril 2023 |
-|  | mano (excepción de los dedos solos) | 139 | Abril 2023 |
+| Agente causante  | Generador de energía excepto motores eléctricos | 10 | Marzo 2023 |
+|   | Contacto con la corriente eléctrica  | 13 | Marzo 2023 |
+| Naturaleza de la lesión | Amputación | 20 | Marzo 2023 |
+| Parte del cuerpo afectada | Dedos de la mano | 411 | Abril 2023 |
+|  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
-| Agente causante | instalaciones eléctricas, incluidos los motores eléctricos pero con exclusiónde las herramientas eléctricas manuales | 1 | Abril 2023 |
+| Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
 
 La fuerza y la precisión crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada. Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos. De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia y la pérdida de fuerza de agarre, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral.
@@ -59,9 +59,7 @@ Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos per
 | Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del miembro amputado | |
 
-
-
-
+Por ello, la impresión 3D es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (8).
 
 
 ## Clínica de problemáticas en salud
