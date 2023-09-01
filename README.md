@@ -83,16 +83,6 @@ Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la a
 
 ## Estado del arte científico
 
-### Tabla de tipos de prótesis con diferentes funcionalidades
-
-| Prótesis | Descripción | Tasa de abandono |
-| ------------- | ------------- | ------------- |
-| Prótesis funcional pasiva | - Aumenta la longitud digital. - Restaura la cosmosis y mejora el desempeño general de la mano. - Suelen estar hechos de silicona | 100% |
-| Prótesis impulsadas por el cuerpo (Body-Powered) | - Aprovechan la anatomía restante de la amputación. - Independientes de baterías externas o electricidad. - Sincrónico con movimientos naturales de la mano. - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
-| Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
-| Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del miembro amputado | |
-
-
 
 
 ## Docentes del curso
