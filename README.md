@@ -1,4 +1,4 @@
-# Equipo 12
+![image](https://github.com/1502Pam/Project/assets/143018547/0ffca9b8-b775-46be-a6d5-fc9f989cc2c9)# Equipo 12
 
 Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
@@ -78,8 +78,19 @@ Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desartic
 Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la amputación transmetacarpiana en adultos con alta actividad laboral manual 
 
 ## Estado del arte científico
+1. El tercer pulgar (10) <image src ="Imagenes/10_2023-08-31 125352.jpg">
 
+Se llevó a cabo una investigación orientada a determinar la viabilidad de alcanzar una mejora motora exitosa mediante la adición de un pulgar robótico suplementario, y a su vez, explorar las implicaciones que ello conlleva tanto en la representación neuronal como en la funcionalidad de la mano biológica. 
+Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, además los participantes fueron sometidos a una serie de evaluaciones que abarcan pruebas de imágenes cerebrales y de comportamiento con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
+Los resultados revelaron notables avances en términos del control motor del tercer pulgar,  destreza, coordinación entre la mano-dispositivo y “encarnación”. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica. Adicionalmente, a través de la decodificación de las señales cerebrales, se identificó una ligera alteración en la representación motora del miembro amplificado tras el periodo de entrenamiento, inclusive en momentos en los cuales el tercer pulgar no era empleado activamente. Estas ramificaciones neurocognitivas revisten vital importancia para el exitoso desarrollo de futuras tecnologías de amplificación.
 
+2. Muscle Finger - Open source (11) <image src ="Imagenes/1_2023-08-31 at 23.54.39.jpeg">
+
+Open muscle finger es una fuente abierta desarrollada por TurfptaX con elementos eléctricos muy básicos y accesibles. Donde a partir del uso de 12 sensores que se ubican el brazo desencadena el movimiento de los dedos protésicos, todo esto a partir de un código en Machine learning qué colección y procesa los datos de manera automática. Las ventajas son la disponibilidad y adaptabilidad para el público; sin embargo, aún se sigue trabajando en la cosmesis del hardware. 
+
+3. Brazalete EMG (12)
+   
+En el artículo se sugiere mover un prototipo de prótesis de mano bajo control mediante una funda EMG comercial. La unidad principal es un subsistema basado en Raspberry Pi conectado a una pulsera EMG para recopilar y clasificar la información de la actividad muscular del usuario. El bloque esclavo es un subsistema basado en un microcontrolador ATmega328 que determina el movimiento del manipulador en función de la información recopilada y procesada por el dispositivo maestro. El objetivo de los resultados experimentales es evaluar el desempeño de prótesis de mano controladas por EMG en diferentes tipos de tareas de agarre.
 
 ## Docentes del curso
 
@@ -102,6 +113,6 @@ Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la a
  8. Kumarage K., Wickramarathna H., Vijesundaram M., Vijendran M., Rathnakumar N., & Thanihaichelvan T. Design and experimental validation of an optimized wrist powered 3D printed mechanical transmetacarpal prosthesis [internet]. 2019 IEEE 14th Conference on Industrial and Information Systems (ICIIS), 2019 [Citado 31 Agosto 2023]. Disponible en: https://sci-hub.se/10.1109/iciis47346.2019.9063259
  9. Department of  Veteran Affairs. VA/DoD Clinical practice guideline for the management of upper limb amputation rehabilitation. Estados Unidos, 2022 [Citado 31 Agosto 2023]. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
  10. Kieliba P., Clode D., Maimon-Mor R. & Makin T. Robotic hand augmentation drives changes in neural body representation [internet]. ScienceRobotics, 12 May 2021 [Citado 31 Ago 2023]; 6(54). Disponible en: https://www.science.org/doi/10.1126/scirobotics.abd7935
-
-
+ 11. Hackaday.io. Open Muscle Finger Tracking Sensor [internet]. Disponible en: https://hackaday.io/project/187922/logs
+ 12. Sánchez L., Montiel M., Guzmán E. & Gonzáles E. A Low-Cost EMG-Controlled Anthropomorphic Robotic Hand for Power and Precision Grasp [internet]. Biocybernetics and Biomedical Engineering, 2020 [Citado 31 Agosto 2023]; 40(1): p. 221-237. Disponible en: https://www.sciencedirect.com/science/article/pii/S0208521619304693?via%3Dihub
 
