@@ -27,7 +27,7 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Análisis del caso clínico
 
-Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, en el Perú, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos: 
+Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, en el Perú, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (1): 
 
 ### Tabla de datos
 
@@ -42,14 +42,15 @@ Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Traba
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
 
-La fuerza y la precisión crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada. Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos. De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia y la pérdida de fuerza de agarre, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral.
+La fuerza y la precisión crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada (2). Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos (3). De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia (4) y la pérdida de fuerza de agarre, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5).
 
-En primer lugar, una amputación del pulgar puede resultar en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona, puesto que afecta directamente a los músculos abductor corto, flexor corto y aductor corto; los cuales son de suma importancia para el movimiento palmar de la mano y el agarre de objetos en múltiples posiciones.
+En primer lugar, una amputación del pulgar puede resultar en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6), puesto que afecta directamente a los músculos abductor corto, flexor corto y aductor corto; los cuales son de suma importancia para el movimiento palmar de la mano y el agarre de objetos en múltiples posiciones (7).
 
-En segundo lugar, las amputaciones proximales a las falanges medias de los dedos pueden disminuir la fuerza de agarre y limitar el agarre en pinza y en otros movimientos motores finos. En el caso del dedo medio, el músculo afectado es el lumbrical. 
+En segundo lugar, las amputaciones proximales a las falanges medias de los dedos pueden disminuir la fuerza de agarre y limitar el agarre en pinza y en otros movimientos motores finos. En el caso del dedo medio, el músculo afectado es el lumbrical (6). 
 
-Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos perdidos no es imposible, es más fácil y tiene una mayor probabilidad de éxito el usar una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual. Respecto al posicionamiento de una prótesis, existen 4 técnicas que permiten el ajuste de esta con el muñón: al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas.
+Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos perdidos no es imposible, es más fácil y tiene una mayor probabilidad de éxito el usar una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Respecto al posicionamiento de una prótesis, existen 4 técnicas que permiten el ajuste de esta con el muñón: al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas.
 
+Por otro lado, existen 4 tipos de prótesis con diferentes funcionalidades (6, 8, 9).
 ### Tabla de tipos de prótesis con diferentes funcionalidades
 
 | Prótesis | Descripción | Tasa de abandono |
@@ -70,7 +71,7 @@ Teniendo en cuenta el caso clínico presentado, se menciona que el usuario prese
 
 Además, logramos identificar los siguientes problemas de MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
 
-Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída
+Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
 
 ## Problemática
 
