@@ -92,7 +92,16 @@ Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la a
 - Yeni Varillas Tacza
 
 ## Bibliografía 
-
+ 1. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. 2023. Boletín estadístico Mensual Marzo 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640 
+ 2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. Abril 2023. Boletín estadístico mensual abril 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828 
+ 3. Stokosa J. Opciones para las prótesis de los miembros [internet]. Manual MSD, 2021 [Citado 31 Agosto 2023]. Disponible en: https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
+ 4. Heijningen G. & Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger [internet]. Journal of Hand Therapy, 2022 [Citado 31 Agosto 2023]; 35(2): p. 289-298. Disponible en: https://www.sciencedirect.com/science/article/pii/S0894113022000035
+ 5. Sapsanis C., Georgoulas G., Tzes A. & Lymberopoulos D. Improving EMG based classification of basic hand movements using EMD. IEEE,  35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2013 [Citado 31 Agosto 2023]. pp. 5754 - 5757. Disponible en: https://ieeexplore.ieee.org/document/6610858
+ 6. Graham E., Hendrycks R.,  Baschuk M., Atkins J., Keizer L., Duncan C. & Mendenhall D. Restoring Form and Function to the Partial Hand Amputee [internet]. Hand Clinics, 2021 [Citado 31 Agosto 2023]; 37(1): p. 167–187. Disponible en: https://sci-hub.se/10.1016/j.hcl.2020.09.013
+ 7. Deivasigamani S., Azad A. & Yang S. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors [internet]. Sage Journals, 2021 [Citado 31 Agosto 2023]; 18(1). Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
+ 8. Kumarage K., Wickramarathna H., Vijesundaram M., Vijendran M., Rathnakumar N., & Thanihaichelvan T. Design and experimental validation of an optimized wrist powered 3D printed mechanical transmetacarpal prosthesis [internet]. 2019 IEEE 14th Conference on Industrial and Information Systems (ICIIS), 2019 [Citado 31 Agosto 2023]. Disponible en: https://sci-hub.se/10.1109/iciis47346.2019.9063259
+ 9. Department of  Veteran Affairs. VA/DoD Clinical practice guideline for the management of upper limb amputation rehabilitation. Estados Unidos, 2022 [Citado 31 Agosto 2023]. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
+ 10. Kieliba P., Clode D., Maimon-Mor R. & Makin T. Robotic hand augmentation drives changes in neural body representation [internet]. ScienceRobotics, 12 May 2021 [Citado 31 Ago 2023]; 6(54). Disponible en: https://www.science.org/doi/10.1126/scirobotics.abd7935
 
 
 
