@@ -1,4 +1,4 @@
-# | Equipo 12 | <image src ="Imágenes/logo.jpeg"> | 
+# Equipo 12
 
 Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
@@ -6,18 +6,18 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Tabla de contenido
 
-- [Roles de los integrantes del proyecto](#Roles_de_los_integrantes_del_proyecto).
-- [Análisis del caso](#Análisis_del_caso).
-- [Clínica de problemáticas en salud](#Clínica_de_problemáticas_en_salud).
-- [Problemática](#Temática_del_proyecto).
-- [Estado del arte científico](#Estado_del_arte_científico).
-- [Propuesta de solución](#Propuesta_de_solución)
-- [Docentes del curso](#Docentes_del_curso).
-- [Bibliografía](#Bibliografía).
+- [Roles de los integrantes del proyecto](##Roles_de_los_integrantes_del_proyecto).
+- [Análisis del caso](##Análisis_del_caso).
+- [Clínica de problemáticas en salud](##Clínica_de_problemáticas_en_salud).
+- [Problemática](##Problemática).
+- [Estado del arte científico](##Estado_del_arte_científico).
+- [Propuesta de solución](##Propuesta_de_solución)
+- [Docentes del curso](##Docentes_del_curso).
+- [Bibliografía](##Bibliografía).
 
 
 ## Roles de los integrantes del proyecto
-- Chavez Rivas Allen Stirs (Encargado de la electrónica y progra)
+- Chavez Rivas Allen Stirs (Encargado de la electrónica y programación)
 - Lazares Salcedo, Brayam Joe (Encargado de manufactura digital y programación)
 - Llanos Florian Dhiago Gustavo (Coordinador y encargado de manufactura digital)
 - Medina Burga Yuliana Abigail (Encargada del modelado del prototipado y programación)
@@ -27,74 +27,58 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Análisis del caso clínico
 
-Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, en el Perú, durante el mes de marzo del 2023, hubieron 13 personas que sufrieron accidentes de trabajo por el contacto con la corriente eléctrica y 10 que fueron por generadores de energía eléctrica
+Según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, en el Perú, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (1): 
 
-<image src ="Imágenes/1_ 2023-08-31 124021.jpg"> 
+### Tabla de datos
 
-<image src ="Imágenes/2_2023-08-31 124517.jpg">
+| Accidentes de trabajo | Especificación | Cantidad de personas afectadas | Fecha de registro de datos |
+| ------------- | ------------- | ------------- | -------------- |
+| Agente causante  | Generador de energía excepto motores eléctricos | 10 | Marzo 2023 |
+|   | Contacto con la corriente eléctrica  | 13 | Marzo 2023 |
+| Naturaleza de la lesión | Amputación | 20 | Marzo 2023 |
+| Parte del cuerpo afectada | Dedos de la mano | 411 | Abril 2023 |
+|  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
+| Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
+| Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
-En consecuencia a ello, se reportaron 20 amputaciones, todas en personas del sexo masculino.[12]
 
-<image src ="Imágenes/3_2023-08-31 124631.jpg">
+La fuerza y la precisión crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada (2). Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos (3). De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia (4) y la pérdida de fuerza de agarre, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5).
 
-Por otro lado, en abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, siendo un total de 139 personas las que tuvieron incidencia en la mano; mientras que, con una cifra alarmante, fueron los dedos de la mano la parte del cuerpo más afectada, con un total de 411 personas.
+En primer lugar, una amputación del pulgar puede resultar en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6), puesto que afecta directamente a los músculos abductor corto, flexor corto y aductor corto; los cuales son de suma importancia para el movimiento palmar de la mano y el agarre de objetos en múltiples posiciones (7).
 
-<image src ="Imágenes/4_2023-08-31 124803.jpg">
+En segundo lugar, las amputaciones proximales a las falanges medias de los dedos pueden disminuir la fuerza de agarre y limitar el agarre en pinza y en otros movimientos motores finos. En el caso del dedo medio, el músculo afectado es el lumbrical (6). 
 
-Asimismo, 13 de estas lesiones fueron amputaciones donde 1 de estas tuvo como causante del accidente a las instalaciones eléctricas incluido los motores eléctricos. [13]
+Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos perdidos no es imposible, es más fácil y tiene una mayor probabilidad de éxito el usar una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Respecto al posicionamiento de una prótesis, existen 4 técnicas que permiten el ajuste de esta con el muñón: al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas.
 
-<image src ="Imágenes/5_2023-08-31 124908.jpg">
+Por otro lado, existen 4 tipos de prótesis con diferentes funcionalidades (6, 8, 9).
+### Tabla de tipos de prótesis con diferentes funcionalidades
 
-<image src ="Imágenes/6_2023-08-31 124946.jpg">
+| Prótesis | Descripción | Tasa de abandono |
+| ------------- | ------------- | ------------- |
+| Prótesis funcional pasiva | - Aumenta la longitud digital. - Restaura la cosmosis y mejora el desempeño general de la mano. - Suelen estar hechos de silicona | 100% |
+| Prótesis impulsadas por el cuerpo (Body-Powered) | - Aprovechan la anatomía restante de la amputación. - Independientes de baterías externas o electricidad. - Sincrónico con movimientos naturales de la mano. - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
+| Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
+| Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del miembro amputado | |
 
-<image src ="Imágenes/7_2023-08-31 125057.jpg">
 
-Una lesión causada por alta tensión eléctrica se suele evaluar a través de gammagrafía o RMN, con la finalidad de detectar daño muscular por el alto voltaje, ya que las lesiones suelen ser quemaduras internas de difícil apreciación superficial. Aunque se ha estudiado la intervención de enzimas que detectan la muerte muscular como la CPK-MB, estas terminan formando parte de factores independientes. 
-
-La fuerza y la precisión, por la manera en que estamos construidos anatómicamente, crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada. Por consiguiente, se previenen esfuerzos y movimientos incómodos, permitiendo así que los pacientes sean conscientes de los movimientos compensatorios como el levantamiento de hombro, la flexión extrema del hombro, el codo, entre otros.
-
-Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas; la flexión y la extensión de la muñeca generalmente se conservan. La restauración protésica funcional es posible cuando falta toda la mano o uno o más dedos utilizando energía mecánica o externa. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos. (dhiago)
-
-De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia y la pérdida de fuerza de agarre y destreza. Incluso el muñón puede retener líquidos en los tejidos, dolor, piel seca o sudoración. Además, el miembro fantasma puede ocasionar que se haga presión de manera equivocada. Entre otras cosas, también representa una carga socioeconómica para el individuo, pues la mano es una herramienta versátil del ser humano que, al amputarla parcialmente, pone en riesgo su actividad laboral. 
-
-En primer lugar, y como ejemplo de lo mencionado anteriormente, una amputación del pulgar puede resultar en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona, puesto que afecta directamente a los músculos abductor corto, flexor corto y aductor corto; los cuales son de suma importancia para el agarre de objetos en múltiples posiciones. Adicionalmente, por ello también se pueden experimentar consecuencias psicológicas y sociales que impidan las interacciones sociales; en consecuencia a eso, una disminución de la autoestima (esto último por un impacto estético). (3B).
-
-En segundo lugar, las amputaciones proximales a las falanges medias de los dedos pueden disminuir la fuerza de agarre y limitar el agarre en pinza y en otros movimientos motores finos. En el caso del dedo medio, el músculo afectado es el lumbrical. (3B) 
-
-Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos perdidos no es imposible, es más fácil y tiene una mayor probabilidad de éxito el usar una prótesis. El uso regular de una prótesis está asociado con la disminución en la sensación del miembro fantasma y dolor en el miembro residual; además, también proporciona bienestar psicológico. (3B) Asimismo, y en compañía de la prótesis, también existen programas de rehabilitación que instruyen al paciente con ejercicios destinados a la optimización del agarre de objetos; de esta manera, se evitan problemas de acondicionamiento.
-
-Respecto al posicionamiento de una prótesis, existen 4 técnicas que permiten el ajuste de esta con el muñón: al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas. En general, el receptáculo de las prótesis está conectado con el miembro y los músculos que generan el movimiento. Por ejemplo, en las prótesis mioeléctricas se utilizan electrodos sensores que detectan las señales eléctricas para generar el movimiento. 
-
-Así como existen las prótesis mioeléctrica, también existen otras con diferentes propósitos y funcionalidades de acuerdo a la necesidad del usuario:
-
- - Prótesis funcional pasiva:
-Son de gran utilidad en amputaciones y desarticulaciones proximales de dedos, debido a que aumenta la longitud digital. Esto ayuda     significativamente a restaurar la cosmosis (preservación, restauración u otorgamiento de belleza corporal) y a mejorar el desempeño general de la mano. Suelen estar hechos de silicona (3B). Sin embargo, esta presenta una tasa de abandono del 100%. (3D)
-
-- Prótesis impulsadas por el cuerpo (Body-Powered):
-Este tipo de prótesis aprovechan la anatomía restante de la amputación para restaurar el rango de movimiento. Funcionan independientemente de baterías externas o electricidad. Su aplicación puede incluir retroalimentación sensorial y posicional, además de un movimiento sincrónico con movimientos naturales de la mano. (3B) Sin embargo las principales limitaciones de este tipo de prótesis son cosméticas, además de otras comunes como son el movimiento lento, dificultad en limpieza y mantenimiento, peso excesivo, fuerza de agarre insuficiente y alto gasto energético. Por todo ello, presenta una tasa de abandono del 80-85%. (3D)
-
-- Prótesis impulsadas externamente (Externally-Powered):
-Este tipo de prótesis se vuelve una opción para amputaciones trans-metacarpianas, donde una de las más comunes son las mioeléctricas (MYO). Estas funcionan registrando señales de electromiografía de superficie (EMG) procedentes de la contracción muscular de los músculos intrínsecos residuales de la mano, con el fin de mover los dedos protésicos (3B). Si en la mano existe superficie insuficiente para señales EMG, se puede usar las señales del antebrazo para controlar la prótesis; no obstante, esto no es la mejor opción, puesto que el movimiento de la muñeca puede generar señales inadecuadas. 
-Es de gran utilidad para alcanzar rangos de movimiento y posturas de agarre de forma independiente o sincrónica, además que también pueden ser impulsadas por baterías y microprocesadores. Sin embargo, presenta una tasa de abandono del 75%.
-
-- Prótesis para actividades específicas:
-Pueden ser utilizadas para varios tipos de amputaciones; sin embargo, su uso se limita a una única función en particular. Es generalmente usado como un dispositivo o herramienta de asistencia en lugar de un reemplazo del miembro amputado. (3B)
-
-La razón común para el gran porcentaje de abandono de estos cuatro tipos de prótesis es el precio. Las prótesis de alta calidad, fabricadas en Estados Unidos, pueden costar alrededor de 5000 a 12000 dólares; por consiguiente, brindado la característica de poco asequible para muchos pacientes amputados.
-
-Aún así, el desarrollo de la creación rápida de prototipos ha dado una solución para el alto coste y el peso excesivo. La impresión 3D es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable. (3D)
+Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos pacientes amputados.
+Por ello, la impresión 3D es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (8).
 
 
 ## Clínica de problemáticas en salud
 
-Dentro de la experiencia clínica en el Perú se ha observado que muy pocas personas con amputaciones parciales optan por usar una prótesis. Se sugiere que la falta de opciones prostéticas y pobres desempeños en el pasado limitan la prescripción o uso de una prótesis digital y/o pulgar. No hay información específica sobre la rehabilitación de un solo dedo dentro de los programas de rehabilitación, sino que en general las empresas y clínicas se adecuan a la necesidad del paciente y el tipo de prótesis. Asimismo, no existe estadística específica sobre amputación en pulgares en el Perú y en Latinoamérica por parte de las principales entidades de información.
+Teniendo en cuenta el caso clínico presentado, se menciona que el usuario presenta sensación de miembro fantasma y dolor persistente, asimismo se ve necesario tomar medidas para fortalecer la musculatura residual y favorecer actividades uni/bimanuales para facilitar sus actividades de vida diarias.
+
+Además, logramos identificar los siguientes problemas de MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
+
+Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
 
 ## Problemática
 
-Baja fuerza de agarre debido a amputación transmetacarpiana del pulgar en adultos con alta actividad laboral manual
-
+Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la amputación transmetacarpiana en adultos con alta actividad laboral manual 
 
 ## Estado del arte científico
+
 
 
 ## Docentes del curso
@@ -108,7 +92,16 @@ Baja fuerza de agarre debido a amputación transmetacarpiana del pulgar en adult
 - Yeni Varillas Tacza
 
 ## Bibliografía 
-
+ 1. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. 2023. Boletín estadístico Mensual Marzo 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640 
+ 2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. Abril 2023. Boletín estadístico mensual abril 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828 
+ 3. Stokosa J. Opciones para las prótesis de los miembros [internet]. Manual MSD, 2021 [Citado 31 Agosto 2023]. Disponible en: https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
+ 4. Heijningen G. & Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger [internet]. Journal of Hand Therapy, 2022 [Citado 31 Agosto 2023]; 35(2): p. 289-298. Disponible en: https://www.sciencedirect.com/science/article/pii/S0894113022000035
+ 5. Sapsanis C., Georgoulas G., Tzes A. & Lymberopoulos D. Improving EMG based classification of basic hand movements using EMD. IEEE,  35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2013 [Citado 31 Agosto 2023]. pp. 5754 - 5757. Disponible en: https://ieeexplore.ieee.org/document/6610858
+ 6. Graham E., Hendrycks R.,  Baschuk M., Atkins J., Keizer L., Duncan C. & Mendenhall D. Restoring Form and Function to the Partial Hand Amputee [internet]. Hand Clinics, 2021 [Citado 31 Agosto 2023]; 37(1): p. 167–187. Disponible en: https://sci-hub.se/10.1016/j.hcl.2020.09.013
+ 7. Deivasigamani S., Azad A. & Yang S. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors [internet]. Sage Journals, 2021 [Citado 31 Agosto 2023]; 18(1). Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
+ 8. Kumarage K., Wickramarathna H., Vijesundaram M., Vijendran M., Rathnakumar N., & Thanihaichelvan T. Design and experimental validation of an optimized wrist powered 3D printed mechanical transmetacarpal prosthesis [internet]. 2019 IEEE 14th Conference on Industrial and Information Systems (ICIIS), 2019 [Citado 31 Agosto 2023]. Disponible en: https://sci-hub.se/10.1109/iciis47346.2019.9063259
+ 9. Department of  Veteran Affairs. VA/DoD Clinical practice guideline for the management of upper limb amputation rehabilitation. Estados Unidos, 2022 [Citado 31 Agosto 2023]. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
+ 10. Kieliba P., Clode D., Maimon-Mor R. & Makin T. Robotic hand augmentation drives changes in neural body representation [internet]. ScienceRobotics, 12 May 2021 [Citado 31 Ago 2023]; 6(54). Disponible en: https://www.science.org/doi/10.1126/scirobotics.abd7935
 
 
 
