@@ -17,12 +17,12 @@ Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 
 ## Roles de los integrantes del proyecto
-- Chavez Rivas Allen Stirs (Encargado de la electrónica y programación)
-- Lazares Salcedo, Brayam Joe (Encargado de manufactura digital y programación)
-- Llanos Florian Dhiago Gustavo (Coordinador y encargado de manufactura digital)
-- Medina Burga Yuliana Abigail (Encargada del modelado del prototipado y programación)
-- Sanchez Valverde Mariel Linette (Encargada de programación y repositorio Github)
-- Vilchez Cotrina Pamela Nicole (Encargada del repositorio Github y electrónica)
+- Chavez Rivas Allen Stirs (Planificador de la electrónica)
+- Lazares Salcedo, Brayam Joe (Planificador de diseño de los planos del prototipo)
+- Llanos Florian Dhiago Gustavo (Coordinador del grupo y planificador de manufactura digital)
+- Medina Burga Yuliana Abigail (Planificador del modelado 3D del prototipado)
+- Sanchez Valverde Mariel Linette (Planificador de programación)
+- Vilchez Cotrina Pamela Nicole (Planificador del repositorio Github)
 
 
 ## Análisis del caso clínico
