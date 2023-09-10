@@ -75,7 +75,7 @@ Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desartic
 
 ## Problemática
 
-Nula fuerza de agarre e imprecisión por parte del pulgar derecho, debido a la amputación transmetacarpiana en adultos con alta actividad laboral manual 
+Hay una deficiencia de prótesis de pulgar especializados en el agarre para personas que buscan la inserción laboral en el Perú.
 
 ## Estado del arte científico
 1. El tercer pulgar (10)
