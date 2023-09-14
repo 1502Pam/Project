@@ -2,7 +2,6 @@
 
 Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
-Proyecto: Prótesis para amputación transmetacarpiana del dedo pulgar
 
 ## Tabla de contenido
 
