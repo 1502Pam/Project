@@ -27,7 +27,7 @@ Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
 ## Análisis del caso clínico
 
-Según Global Health Data Exchange, durante el año 2019 existieron más de 160 millones de personas mayores de 25 años que presentaron amputaciones de dedos (exceptuando al pulgar) y más de 90 millones las presentaron en el pulgar. Además, los casos de incidencia en las amputaciones de las partes anteriormente mencionadas se ven incrementados cada año.
+Según Global Health Data Exchange, durante el año 2019 existieron más de 160 millones de personas mayores de 25 años que presentaron amputaciones de dedos (exceptuando al pulgar) y más de 90 millones las presentaron en el pulgar. Además, los casos de incidencia en las amputaciones de las partes anteriormente mencionadas se ven incrementados cada año. (1S).
 
 <image src ="Imágenes/1S.jpg"> 
 
