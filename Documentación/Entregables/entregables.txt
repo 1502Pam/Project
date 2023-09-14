@@ -1,0 +1,71 @@
+<!DOCTYPE html>.
+<html lang=»es»>
+    <Head>
+
+    </Head>
+    </html>
+    <body>
+        <table class="default">
+
+            <tr>
+          
+              <th scope="row">Invención</th>
+          
+              <th></th>
+          
+              <th></th>
+          
+              <th>Utilidad</th>
+          
+            </tr>
+          
+            <tr>
+          
+              <td>Prótesis mioeléctrica y método</td>
+          
+              <td>Prótesis de mano multifuncional y autónoma</td>
+          
+              <td>Una prótesis de mano</td>
+          
+              <td>Prótesis trans de articulación de muñeca y pulgar impresora 3D. </td>
+          
+            </tr>
+          
+            <tr>
+          
+              <th>
+                <img src="">
+              </th>
+          
+              <td><img src=""></td>
+          
+              <td><img src=""></td>
+          
+              <td><img src=""></td>
+          
+            </tr>
+          
+            <tr>
+          
+              <td>Gaston y Loeffler -Estados Unidos (2017)
+                Es una próstesis de trasferencia de señales con electrodos, describe con exactitud la conexión de cada uno de los nervios que generan el movimiento de los músculos en la mano. Utiliza microprocesadores multicanal, entradas EMG, motores, etc., es el mayor avance para las prótesis mioeléctricas. El ensamblado al paciente es un método quirúrgico. 
+              </td>
+          
+              <td>Controzzi, Clemente, Cipriani, Carrozza - España (2016) 
+                Prótesis de mano que permite la rotación, abducción y flexión del dedo, a partir de un sistema eléctrico y árbol motor rotativo que están programados para el movimiento restringido, a partir del análisis del movimiento angular. Utilizan el mecanismo rotativo de cruz de malta y una línea de trasmisión del movimiento. 
+                </td>
+          
+              <td>HOCAOĞLU ÇETİNSOY – Turkia (2022)
+
+                Se utiliza señales electromiografías de superficie y polímeros que tiene memoria elástica y que cambian su rigidez dependiendo de factores externos. Dividen la estructura tres huesos con poleas y calentadores. EL movimiento lo generan motores DC de control, no se utiliza ningún tipo de algoritmo, es de bajo costo, gran adaptabilidad al amputado, lo que reduce el tiempo de rehabilitación.
+                </td>
+          
+              <td>Wei Qipei; Liu Chang; Yang Chen; Chen Shanlin – China (2023)
+                A otras modelos de prótesis 3D se incluye una bola, tapa y varilla metacarpiana que se conectan por rosca con los otros huesos y la varilla se coloca en una posición alejada mejorando el uso técnico de la prótesis. Utiliza materiales como polietileno, cromo de cobalto, aleación de aluminio biológicamente compatibles. 
+                </td>
+          
+            </tr>
+          
+          </table>
+    </body>
+    </html>
