@@ -37,11 +37,11 @@
                 <img src="Imagen1.png">
               </th>
           
-              <td><img src="Imagen2.png"></td>
+              <td><img src="Imagen2.png"></img></td>
           
-              <td><img src="">Imagen1.png</td>
+              <td><img src="Imagen3.png"></img></td>
           
-              <td><img src="">Imagen1.png</td>
+              <td><img src="Imagen4.png"></img></td>
           
             </tr>
           
