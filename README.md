@@ -55,8 +55,8 @@ Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del 
 | Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
 
 ### Factores fundamentales que determinan la sensación de dolor del miembro fantasma: 
-| Factores | Descripción |
-|-----------|------------|
+| Factores |  | Descripción |
+|-----------|------------|-------|
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
 | Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
 | | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
