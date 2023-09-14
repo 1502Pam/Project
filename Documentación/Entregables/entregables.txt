@@ -33,15 +33,15 @@
           
             <tr>
           
-              <th>
-                <img src="Imagen1.png">
-              </th>
+              <td>
+                <img src="Imágenes/Imagen1.png">
+              </td>
           
-              <td><img src="Imagen2.png"></img></td>
+              <td><img src="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Imagen2.png"></img></td>
           
-              <td><img src="Imagen3.png"></img></td>
+              <td><img src="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Imagen2.png"></td>
           
-              <td><img src="Imagen4.png"></img></td>
+              <td><img src="Imágenes/Imagen1.png"></img></img></td>
           
             </tr>
           
