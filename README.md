@@ -48,6 +48,8 @@ En el Perú, según el Boletín Estadístico Mensual de Notificaciones de accide
 
 Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P). Aquella sensación de dolor puede ser clasificada en (2P): /INSERTE TABLA/
 
+| Clasificación de la sensación de dolor | Descripción |
+|-----------|------------|
 | Dolor en el miembro residual  | Percepción dolorosa en el segmento no amputado |
 | Sensación fantasma | Percepción no dolorosa del segmento amputado |
 | Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
