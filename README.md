@@ -46,7 +46,7 @@ En el Perú, según el Boletín Estadístico Mensual de Notificaciones de accide
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
 
-Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P). Aquella sensación de dolor puede ser clasificada en (2P): /INSERTE TABLA/
+Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
 
 | Clasificación de la sensación de dolor | Descripción |
 |-----------|------------|
@@ -54,16 +54,17 @@ Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del 
 | Sensación fantasma | Percepción no dolorosa del segmento amputado |
 | Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
 
-Por otro lado, existen dos factores fundamentales que determinan la sensación de dolor del miembro fantasma (3P): /HACER TABLA/
 
+| factores fundamentales que determinan la sensación de dolor del miembro fantasma | Descripción |
+|-----------|------------|
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
 | Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
 |--------------------- | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
 
 
 
-En la mano existen dos tipos de músculos clasificados por su origen y terminación
-
+| Tipos de músculos clasificados por su origen y terminación | Descripción |
+|-----------|------------|
 | Músculos intrínsecos | Ajustan la mano durante el agarre, apoyan la realización de movimientos finos de los dedos y presentan su origen e inserción dentro del territorio de la mano. |
 | Músculos extrínsecos | se originan en el antebrazo y están implicados en el movimiento de la mano.|
 
