@@ -34,14 +34,14 @@
             <tr>
           
               <th>
-                <img src="">
+                <img src="Imagen1.png">
               </th>
           
-              <td><img src=""></td>
+              <td><img src="Imagen2.png"></td>
           
-              <td><img src=""></td>
+              <td><img src="">Imagen1.png</td>
           
-              <td><img src=""></td>
+              <td><img src="">Imagen1.png</td>
           
             </tr>
           
