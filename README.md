@@ -1,7 +1,7 @@
 # Equipo 12
 
 Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
-<image src ="Imágenes/fotogrupal.jpg"> 
+<image src ="Imágenes/foto_grupal.jpg"> 
 
 
 ## Tabla de contenido
