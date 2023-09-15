@@ -57,6 +57,8 @@ En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quie
    
 Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas (6); de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
 
+##### Tabla de elaboración propia 2
+
 | Clasificación de la sensación de dolor | Descripción |
 |-----------|------------|
 | Dolor en el miembro residual  | Percepción dolorosa en el segmento no amputado |
@@ -65,7 +67,7 @@ Perder una parte del cuerpo desencadena una serie de consecuencias funcionales p
 
 Por otro lado, existen factores fundamentales que determinan la sensación de dolor:
 
-##### Factores fundamentales que determinan la sensación de dolor del miembro fantasma: 
+##### Tabla de elaboración propia 3
 | Factores |  | Descripción |
 |-----------|------------|-------|
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
@@ -96,7 +98,7 @@ En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades 
 
 Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón (3): al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades (6, 9, 10):
 
-#### Tabla de tipos de prótesis con diferentes funcionalidades
+#### Tabla de elaboración propia 4
 
 | Prótesis | Descripción | Tasa de abandono |
 | ------------- | ------------- | ------------- |
