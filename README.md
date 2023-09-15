@@ -143,6 +143,19 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 <image src ="Imágenes/2B.png"> 
 
+## Estado del arte comercial
+
+### A) Equipos o dispositivos existentes en el mercado /tabla de stirs/
+
+### B) Patentes de invención y Patentes de modelo de utilidad
+
+## Lista de requerimientos
+### Funcionales
+
+### No Funcionales
+
+## Propuesta de solución
+
 ## Docentes del curso
 
 - Paulo Camilo Alberto Vela Anton
