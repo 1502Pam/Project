@@ -28,7 +28,7 @@
 
 ## Análisis del caso clínico
 
-### Contexto
+### A) Contexto
 
 Según Global Burden of Disease (GBD) (1S), existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los períodos 1990 y 2019.
 
@@ -51,7 +51,7 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quiere decir que, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6, 7).
 
 
-### Consecuencias de un pulgar amputado
+### B) Consecuencias de un pulgar amputado
 
 #### 1. Síndrome del miembro fantasma
    
@@ -90,7 +90,7 @@ Los agarres de fuerza crean patrones motores y señales nerviosas que originan e
 <image src ="Imágenes/3M.jpg"> 
 
 
-### Alternativas de solución actuales ante la amputación de un miembro
+### C) Alternativas de solución actuales ante la amputación de un miembro
 
 En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada (2).
 
