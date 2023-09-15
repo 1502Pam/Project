@@ -80,7 +80,7 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
 
-<image src ="Imágenes/1M.jpg"> 
+<image src ="Imágenes/1M_n.jpeg"> 
 
 Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (1D).
 Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad); sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
@@ -146,6 +146,43 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 ## Estado del arte comercial
 
 ### A) Equipos o dispositivos existentes en el mercado /tabla de stirs/
+
+|| Dispositivos existentes en el mercado ||
+| ------------- | ------------- |------------- |
+| GripLock Finger | THUMBDriver | PIPDriver |
+| Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial de. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el
+MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre. | Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
+| Materiales
+- nylon 12 (medical grade)
+- silicona
+ aluminio 7075-T6
+
+Resistencia al calor
+- nylon 175 C
+-silicona 204.4C | Materiales
+- nylon 12 (medical grade)
+- silicona
+- stainless 316
+- titanio
+
+Resistencia al calor
+- nylon 175 C
+-silicona 204.4C
+
+Resistencia a la tensión del anillo
+36.28kg | 
+Materiales
+-nylon 12(grado médico)
+-silicona
+-titanio
+Resistencia al calor
+-nylon 175 C
+-silicona 204.4C
+Resistencia al aplastamiento
+-mayor a 27.22kg |
+
+
+
 
 ### B) Patentes de invención y Patentes de modelo de utilidad
 
