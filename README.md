@@ -12,6 +12,8 @@
 - [Clínica de problemáticas en salud](##Clínica_de_problemáticas_en_salud).
 - [Problemática](##Problemática).
 - [Estado del arte científico](##Estado_del_arte_científico).
+- [Estado del arte comercial](##Estado_del_arte_comercial).
+- [Lista de requerimientos](##Lista de requerimientos).
 - [Propuesta de solución](##Propuesta_de_solución)
 - [Docentes del curso](##Docentes_del_curso).
 - [Bibliografía](##Bibliografía).
@@ -30,11 +32,11 @@
 
 ### A) Contexto
 
-Según Global Burden of Disease (GBD) (1S), existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los períodos 1990 y 2019.
+Según Global Burden of Disease (GBD) (1), existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los períodos 1990 y 2019.
 
 <image src ="Imágenes/1S.jpg"> 
 
-En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (1): 
+En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (2): 
 
 #### Tabla de elaboración propia 1
 
@@ -48,14 +50,14 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
-En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quiere decir que, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6, 7).
+En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quiere decir que, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (3, 4).
 
 
 ### B) Consecuencias de un pulgar amputado
 
 #### 1. Síndrome del miembro fantasma
    
-Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas (6); de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
+Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas (5); de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación (6).
 
 ##### Tabla de elaboración propia 2
 
@@ -72,31 +74,31 @@ Por otro lado, existen factores fundamentales que determinan la sensación de do
 |-----------|------------|-------|
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
 | Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
-| | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
+| | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (7) y somatosensorial primaria (7). | 
 
 Por tales factores, el miembro fantasma depende de muchos cambios neurológicos causados por un cambio drástico en la anatomía del miembro amputado. En el caso del pulgar, estos cambios podrían variar o ser más complejos debido al rol del pulgar en la anatomía y fisiología de la mano.
 
 #### 2. Merma del movimiento de la mano
 
-El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
+El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (8).
 
 <image src ="Imágenes/1M_n.jpeg"> 
 
-Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (1D).
+Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (9).
 Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad); sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
 
 #### 3. Pérdida de los agarres de fuerza
 
-Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia (4) y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 3M).
+Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia (4) y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 10).
 
 <image src ="Imágenes/3M_n.jpeg"> 
 
 
 ### C) Alternativas de solución actuales ante la amputación de un miembro
 
-En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada (2).
+En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (11). Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada (12).
 
-Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón (3): al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades (6, 9, 10):
+Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón (5): al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades (12, 13, 14):
 
 #### Tabla de elaboración propia 4
 
@@ -123,7 +125,7 @@ Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes
 Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza para personas que buscan la inserción laboral en el Perú.
 
 ## Estado del arte científico
-1. El tercer pulgar (11)
+1. El tercer pulgar (15)
 
 Se llevó a cabo una investigación orientada a determinar la viabilidad de alcanzar una mejora motora exitosa mediante la adición de un pulgar robótico suplementario, y a su vez, explorar las implicaciones que ello conlleva tanto en la representación neuronal como en la funcionalidad de la mano biológica. 
 Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, además los participantes fueron sometidos a una serie de evaluaciones que abarcan pruebas de imágenes cerebrales y de comportamiento con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
@@ -131,13 +133,13 @@ Los resultados revelaron notables avances en términos del control motor del ter
 
 <image src ="Imágenes/tercer_pulgar.jpg"> 
 
-2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note (4B)
+2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note (16)
 
 Se creó una prótesis personalizada a un hombre de 67 años con una amputación del pulgar derecho por encima de la articulación metacarpofalángica. Para la prótesis se escanearon las manos del usuario y se procedió a imprimir en 3D la prótesis del pulgar derecho con un elastómero termoplástico flexible, todo en un lapso de 48 horas y a un costo de $50. Posteriormente, se evaluó el producto mediante el Test de Función de la Mano Jebsen-Taylor y el Test de Bloques y Cajas. Los resultados de satisfacción del usuario fueron “muy satisfechos” y se reportó gran facilidad para actividades cotidianas al emplear la prótesis.
 
 <image src ="Imágenes/4B.png"> 
 
-3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso (2B)
+3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso (17)
    
 El estudió se centró en un usuario masculino con una amputación parcial de la mano no dominante. A modo de solución, se diseñaron dos prótesis en cuyo proceso de diseño fue crucial la retroalimentación del usuario para crear un producto que ayude al usuario en sus actividades laborales. Estas prótesis personalizadas e impresas en 3D con silicona incrustada fueron evaluadas utilizando el Test de Función de la Mano Jebsen; mediante el cual se observó que, un diseño de prótesis más simple (prótesis 2) fue más útil y robusto que uno sofisticado (prótesis 1). Por otro lado, el estudio destaca el potencial de las prótesis impresas en 3D e importancia de la personalización para mejorar la calidad de vida de personas con amputaciones parciales de la mano.
 
@@ -145,7 +147,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ## Estado del arte comercial
 
-### A) Equipos o dispositivos existentes en el mercado /tabla de stirs/
+### A) Equipos o dispositivos existentes en el mercado
 
 || Dispositivos existentes en el mercado ||
 | ------------- | ------------- |------------- |
@@ -197,15 +199,20 @@ Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, pe
 - Yeni Varillas Tacza
 
 ## Bibliografía 
- 1. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. 2023. Boletín estadístico Mensual Marzo 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640 
- 2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales. Abril 2023. Boletín estadístico mensual abril 2023. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828 
- 3. Stokosa J. Opciones para las prótesis de los miembros [internet]. Manual MSD, 2021 [Citado 31 Agosto 2023]. Disponible en: https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
- 4. Heijningen G. & Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger [internet]. Journal of Hand Therapy, 2022 [Citado 31 Agosto 2023]; 35(2): p. 289-298. Disponible en: https://www.sciencedirect.com/science/article/pii/S0894113022000035
- 5. Sapsanis C., Georgoulas G., Tzes A. & Lymberopoulos D. Improving EMG based classification of basic hand movements using EMD. IEEE,  35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2013 [Citado 31 Agosto 2023]. pp. 5754 - 5757. Disponible en: https://ieeexplore.ieee.org/document/6610858
- 6. Graham E., Hendrycks R.,  Baschuk M., Atkins J., Keizer L., Duncan C. & Mendenhall D. Restoring Form and Function to the Partial Hand Amputee [internet]. Hand Clinics, 2021 [Citado 31 Agosto 2023]; 37(1): p. 167–187. Disponible en: https://sci-hub.se/10.1016/j.hcl.2020.09.013
- 7. A. Swanson, C. Hagert, G. Swanson, Evaluation of impairment of hand function, The Journal of Hand Surgery, 8 (1983) 709-722. https://doi.org/10.1016/S0363-5023(83)80253-6 [accessed on 21.09.2018].  
- 8. Deivasigamani S., Azad A. & Yang S. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors [internet]. Sage Journals, 2021 [Citado 31 Agosto 2023]; 18(1). Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
- 9. Kumarage K., Wickramarathna H., Vijesundaram M., Vijendran M., Rathnakumar N., & Thanihaichelvan T. Design and experimental validation of an optimized wrist powered 3D printed mechanical transmetacarpal prosthesis [internet]. 2019 IEEE 14th Conference on Industrial and Information Systems (ICIIS), 2019 [Citado 31 Agosto 2023]. Disponible en: https://sci-hub.se/10.1109/iciis47346.2019.9063259
- 10. Department of  Veteran Affairs. VA/DoD Clinical practice guideline for the management of upper limb amputation rehabilitation. Estados Unidos, 2022 [Citado 31 Agosto 2023]. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
- 11. Kieliba P., Clode D., Maimon-Mor R. & Makin T. Robotic hand augmentation drives changes in neural body representation [internet]. ScienceRobotics, 12 May 2021 [Citado 31 Ago 2023]; 6(54). Disponible en: https://www.science.org/doi/10.1126/scirobotics.abd7935
-
+1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
+2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL MARZO 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640
+3. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL ABRIL 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828
+4. Graham EM, Hendrycks R, Baschuk CM, Atkins DJ, Keizer L, Duncan CC, et al. Restoring Form and Function to the Partial Hand Amputee: Prosthetic Options from the Fingertip to the Palm [Internet]. Vol. 37, Hand Clinics. W.B. Saunders; 2021 [citado 30 de agosto de 2023]. p. 167-87. Disponible en: https://doi.org/10.1016/j.hcl.2020.09.013
+5. Deivasigamani S, Azad A, Yang SS. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors. Hand [Internet]. 1 de enero de 2023 [citado 30 de agosto de 2023];18(1):145-52. Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
+6. Kaur A, Guan Y. Phantom limb pain: A literature review [Internet]. Vol. 21, Chinese Journal of Traumatology - English Edition. Elsevier B.V.; 2018 [citado 12 de septiembre de 2023]. p. 366-8. Disponible en: https://doi.org/10.1016/j.cjtee.2018.04.006
+7. Bru JLS, Vergara M, Jarque Bou NJ, Aguilar MM, Pérez González A. Asociación Española de Ingeniería Mecánica XIX CONGRESO NACIONAL DE INGENIERÍA MECÁNICA Medición del movimiento de todos los segmentos de la mano mediante videogrametría [Internet]. 2012 [citado 12 de septiembre de 2023]. Disponible en: http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf
+8. Arias López LA. Biomecánica y patrones funcionales de la mano [Internet]. Vol. 4. 2012 [citado 12 de septiembre de 2023]. Disponible en: https://revistas.unal.edu.co/index.php/morfolia/article/view/31373/31379
+9. van Heijningen VG, Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger. Journal of Hand Therapy [Internet]. 1 de abril de 2022 [citado 30 de agosto de 2023];35(2):289-98. Disponible en: https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext
+10. IEEE Engineering in Medicine and Biology Society, Annual International Conference of the IEEE Engineering in Medicine and Biology Society 35 2013.07.03-07 Osaka, EMBC 35 2013.07.03-07 Osaka, EMBS Annual Conference 35 2013.07.03-07 Osaka. 2013 35th annual international conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 3-7 July 2013, Osaka, Japan [Internet]. 2013 [citado 12 de septiembre de 2023]. Disponible en: https://ieeexplore.ieee.org/document/6610858
+11. Taylor CL, Schwarz RJ. The Anatomy and Mechanics of the Human Hand [Internet]. 1955 [citado 12 de septiembre de 2023]. Disponible en: https://www.oandplibrary.org/al/pdf/1955_02_022.pdf
+12. Jan J. Stokosa. Opciones para las prótesis de los miembros. En: Manual MSD. 2021. https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
+13. Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
+14. Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: www.tricare.mil 
+15. Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
+16. Lee KH, Kim SJ, Cha YH, Kim JL, Kim DK, Kim SJ. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note. Prosthet Orthot Int [Internet]. 1 de febrero de 2018 [citado 12 de septiembre de 2023];42(1):107-11. Disponible en: https://journals.sagepub.com/doi/epub/10.1177/0309364616679315
+17. Alvial P, Bravo G, Bustos MP, Moreno G, Alfaro R, Cancino R, et al. Quantitative functional evaluation of a 3D–printed silicone-embedded prosthesis for partial hand amputation: A case report. Journal of Hand Therapy. 1 de enero de 2018;31(1):129-36. 
