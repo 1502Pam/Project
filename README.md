@@ -78,12 +78,12 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 #### 2. Merma del movimiento de la mano
 
-El movimiento de la mano tiene un total de 25 grados de libertad y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
+El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
 
 <image src ="Imágenes/1M.jpg"> 
 
 Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (1D).
-Sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
+Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad); sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
 
 #### 3. Pérdida de los agarres de fuerza
 
