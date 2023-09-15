@@ -78,7 +78,7 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 #### 2. Merma del movimiento de la mano
 
-El movimiento de la mano tiene un total de 25 grados de libertad y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (3M).
+El movimiento de la mano tiene un total de 25 grados de libertad y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
 
 <image src ="Imágenes/1M.jpg"> 
 
