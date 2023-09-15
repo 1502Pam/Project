@@ -89,7 +89,7 @@ Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL 
 
 Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia (4) y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 3M).
 
-<image src ="Imágenes/3M.jpg"> 
+<image src ="Imágenes/3M_n.jpeg"> 
 
 
 ### C) Alternativas de solución actuales ante la amputación de un miembro
@@ -150,36 +150,10 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 || Dispositivos existentes en el mercado ||
 | ------------- | ------------- |------------- |
 | GripLock Finger | THUMBDriver | PIPDriver |
+| <image src ="Imágenes/griplock.png"> | <image src ="thumbdriver.png"> | <image src ="Imágenes/PIPdriver.png"> |
 | Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial de. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el
 MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre. | Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
-| Materiales
-- nylon 12 (medical grade)
-- silicona
- aluminio 7075-T6
-
-Resistencia al calor
-- nylon 175 C
--silicona 204.4C | Materiales
-- nylon 12 (medical grade)
-- silicona
-- stainless 316
-- titanio
-
-Resistencia al calor
-- nylon 175 C
--silicona 204.4C
-
-Resistencia a la tensión del anillo
-36.28kg | 
-Materiales
--nylon 12(grado médico)
--silicona
--titanio
-Resistencia al calor
--nylon 175 C
--silicona 204.4C
-Resistencia al aplastamiento
--mayor a 27.22kg |
+| Materiales - nylon 12 (medical grade)- silicona -aluminio 7075-T6 Resistencia al calor - nylon 175 C -silicona 204.4C | Materiales - nylon 12 (medical grade) - silicona - stainless 316 - titanio Resistencia al calor - nylon 175 C -silicona 204.4C Resistencia a la tensión del anillo 36.28kg | Materiales -nylon 12(grado médico) -silicona -titanio Resistencia al calor -nylon 175 C -silicona 204.4C Resistencia al aplastamiento -mayor a 27.22kg |
 
 
 
