@@ -47,7 +47,7 @@ En el Perú, según el Boletín Estadístico Mensual de Notificaciones de accide
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
 
-Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
+Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
 
 | Clasificación de la sensación de dolor | Descripción |
 |-----------|------------|
