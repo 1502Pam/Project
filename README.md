@@ -168,10 +168,23 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ## Lista de requerimientos
 ### Funcionales
+- Permitir el agarre de fuerza necesario para permitir la reinserción laboral
+- Presentar un correcto encaje con la mano del usuario
+- Ser similarmente flexible a los demás dedos.
+- Poseer la fricción necesaria para evitar el deslizamiento de objetos.
+- Autorregular su temperatura consecuente al calor producido durante el movimiento de la prótesis. 
 
 ### No Funcionales
+- Movimiento intuitivo para el usuario
+- Ergonómico 
+- Tamaño proporcional al tamaño del paciente
+- Ligero
+- De bajo costo
+- No obstaculizar el movimiento de los demás dedos
+- De fácil transporte y mantenimiento
 
 ## Propuesta de solución
+Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
 
 ## Docentes del curso
 
