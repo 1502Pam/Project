@@ -1,6 +1,8 @@
 # Equipo 12
 
-Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
+#### Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
+
+<image src ="Imágenes/foto_grupal.jpg"> 
 
 
 ## Tabla de contenido
@@ -26,11 +28,15 @@ Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
 
 ## Análisis del caso clínico
 
-Según Global Health Data Exchange, durante el año 2019 existieron más de 160 millones de personas mayores de 25 años que presentaron amputaciones de dedos (exceptuando al pulgar) y más de 90 millones las presentaron en el pulgar. Además, los casos de incidencia en las amputaciones de las partes anteriormente mencionadas se ven incrementados cada año (1S). /INSERTE IMAGEN STIRS/
+### A) Contexto
 
-En el Perú, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (1): 
+Según Global Burden of Disease (GBD) (1S), existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los períodos 1990 y 2019.
 
-### Tabla de datos
+<image src ="Imágenes/1S.jpg"> 
+
+En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (1): 
+
+#### Tabla de elaboración propia 1
 
 | Accidentes de trabajo | Especificación | Cantidad de personas afectadas | Fecha de registro de datos |
 | ------------- | ------------- | ------------- | -------------- |
@@ -42,36 +48,57 @@ En el Perú, según el Boletín Estadístico Mensual de Notificaciones de accide
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
 
-
-Entre un 60-80% de los pacientes amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P). Aquella sensación de dolor puede ser clasificada en (2P): /INSERTE TABLA/
-
+En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quiere decir que, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6, 7).
 
 
-Por otro lado, existen dos factores fundamentales que determinan la sensación de dolor del miembro fantasma (3P): /HACER TABLA/
+### B) Consecuencias de un pulgar amputado
+
+#### 1. Síndrome del miembro fantasma
+   
+Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas (6); de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación. (1P).
+
+##### Tabla de elaboración propia 2
+
+| Clasificación de la sensación de dolor | Descripción |
+|-----------|------------|
+| Dolor en el miembro residual  | Percepción dolorosa en el segmento no amputado |
+| Sensación fantasma | Percepción no dolorosa del segmento amputado |
+| Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
+
+Por otro lado, existen factores fundamentales que determinan la sensación de dolor:
+
+##### Tabla de elaboración propia 3
+| Factores |  | Descripción |
+|-----------|------------|-------|
+| Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
+| Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
+| | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
+
+Por tales factores, el miembro fantasma depende de muchos cambios neurológicos causados por un cambio drástico en la anatomía del miembro amputado. En el caso del pulgar, estos cambios podrían variar o ser más complejos debido al rol del pulgar en la anatomía y fisiología de la mano.
+
+#### 2. Merma del movimiento de la mano
+
+El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M).
+
+<image src ="Imágenes/1M.jpg"> 
+
+Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (1D).
+Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad); sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
+
+#### 3. Pérdida de los agarres de fuerza
+
+Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia (4) y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 3M).
+
+<image src ="Imágenes/3M.jpg"> 
 
 
+### C) Alternativas de solución actuales ante la amputación de un miembro
 
-En la mano existen dos tipos de músculos clasificados por su origen y terminación (1D). /HACER TABLA DE DHIAGO/
+En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada (2).
 
+Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón (3): al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades (6, 9, 10):
 
-
-El movimiento de la mano tiene un total de 25 grados de libertad, y suele describirse en los campos clínico y biomecánico por un conjunto de ángulos de rotación fisiológicos (figura 1): flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (1M). /INSERTE IMAGEN/
-
-
-
-Para nuestra investigación es relevante resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad). Sin embargo, aún no se conoce de ningún método que permita la medición simultánea de los 25 grados de libertad de la mano en movimiento en términos de ángulos de rotación fisiológicos (2M).
-
-
-La fuerza y la precisión crean patrones motores y señales nerviosas que originan el movimiento que deseamos. Por tal motivo, después de una amputación, la fuerza desproporcionada en los miembros se trabaja con rutinas de terapia, con el fin de enseñar al paciente a mantener las articulaciones en la posición adecuada (2). Por las estadísticas mostradas, las amputaciones de mano parcial varían desde un solo dedo o múltiples dedos hasta amputaciones carpometacarpianas. La prensión y la oposición a menudo se pueden lograr si se oponen, de alguna manera, los dedos naturales y los protésicos (3). De esta manera, cuando la amputación se da en los dedos de la mano desencadena problemas como la hiperestesia (4) y la pérdida de fuerza de agarre, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 3M). /INSERTE IMAGEN/
-
-En primer lugar, una amputación del pulgar puede resultar en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (6, 7), puesto que afecta directamente a los músculos abductor corto, flexor corto y aductor corto; los cuales son de suma importancia para el movimiento palmar de la mano y el agarre de objetos en múltiples posiciones (8).
-
-En segundo lugar, las amputaciones proximales a las falanges medias de los dedos pueden disminuir la fuerza de agarre y limitar el agarre en pinza y en otros movimientos motores finos. En el caso del dedo medio, el músculo afectado es el lumbrical (6). 
-
-Si bien adaptarse a realizar las mismas actividades de trabajo con los dedos perdidos no es imposible, es más fácil y tiene una mayor probabilidad de éxito el usar una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (6). Respecto al posicionamiento de una prótesis, existen 4 técnicas que permiten el ajuste de esta con el muñón: al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del paciente, se suelen fusionar con almohadillas de gel y medias protésicas.
-
-Por otro lado, existen 4 tipos de prótesis con diferentes funcionalidades (6, 9, 10).
-### Tabla de tipos de prótesis con diferentes funcionalidades
+#### Tabla de elaboración propia 4
 
 | Prótesis | Descripción | Tasa de abandono |
 | ------------- | ------------- | ------------- |
@@ -80,22 +107,20 @@ Por otro lado, existen 4 tipos de prótesis con diferentes funcionalidades (6, 9
 | Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del bro amputado | |
 
-
-Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos pacientes amputados.
-Por ello, la impresión 3D es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (9).
+Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos usuarios amputados. Pese a ello, la manufactura aditiva es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (9).
 
 
 ## Clínica de problemáticas en salud
 
-Teniendo en cuenta el caso clínico presentado, se menciona que el usuario presenta sensación de bro fantasma y dolor persistente, asimismo se ve necesario tomar medidas para fortalecer la musculatura residual y favorecer actividades uni/bimanuales para facilitar sus actividades de vida diarias.
+El usuario presenta sensación de miembro fantasma y dolor persistente; por tal motivo, es necesario tomar medidas para fortalecer la musculatura residual y favorecer actividades uni/bimanuales para facilitar sus actividades de vida diarias.
 
-Además, logramos identificar los siguientes problemas de MMII en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
+Además, existen diversos problemas de los miembros inferiores en la amputación transtibial: marcha compensada, alteración sensorial táctil y dificultad para reconocer un adecuado punto de apoyo. 
 
-Por otro lado, en cuanto a los MMSS, la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio distinguimos las siguientes dificultades: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
+Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes dificultades tras la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
 
 ## Problemática
 
-Hay una deficiencia de prótesis de pulgar especializados en el agarre para personas que buscan la inserción laboral en el Perú.
+Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza para personas que buscan la inserción laboral en el Perú.
 
 ## Estado del arte científico
 1. El tercer pulgar (11)
@@ -104,13 +129,32 @@ Se llevó a cabo una investigación orientada a determinar la viabilidad de alca
 Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, además los participantes fueron sometidos a una serie de evaluaciones que abarcan pruebas de imágenes cerebrales y de comportamiento con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
 Los resultados revelaron notables avances en términos del control motor del tercer pulgar,  destreza, coordinación entre la mano-dispositivo y “encarnación”. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica. Adicionalmente, a través de la decodificación de las señales cerebrales, se identificó una ligera alteración en la representación motora del miembro amplificado tras el periodo de entrenamiento, inclusive en momentos en los cuales el tercer pulgar no era empleado activamente. Estas ramificaciones neurocognitivas revisten vital importancia para el exitoso desarrollo de futuras tecnologías de amplificación.
 
+<image src ="Imágenes/tercer_pulgar.jpg"> 
+
 2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note (4B)
 
-Se creó una prótesis personalizada a un hombre de 67 años con una amputación del pulgar derecho por encima de la articulación metacarpofalángica. Para la prótesis se escanearon las manos del paciente y se procedió a imprimir en 3D la prótesis del pulgar derecho con un elastómero termoplástico flexible, todo en un lapso de 48 horas y a un costo de $50. Posteriormente, se evaluó el producto mediante el Test de Función de la Mano Jebsen-Taylor y el Test de Bloques y Cajas. Los resultados de satisfacción del usuario fueron “muy satisfechos” y se reportó gran facilidad para actividades cotidianas al emplear la prótesis.
+Se creó una prótesis personalizada a un hombre de 67 años con una amputación del pulgar derecho por encima de la articulación metacarpofalángica. Para la prótesis se escanearon las manos del usuario y se procedió a imprimir en 3D la prótesis del pulgar derecho con un elastómero termoplástico flexible, todo en un lapso de 48 horas y a un costo de $50. Posteriormente, se evaluó el producto mediante el Test de Función de la Mano Jebsen-Taylor y el Test de Bloques y Cajas. Los resultados de satisfacción del usuario fueron “muy satisfechos” y se reportó gran facilidad para actividades cotidianas al emplear la prótesis.
+
+<image src ="Imágenes/4B.png"> 
 
 3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso (2B)
    
-El estudió se centró en un paciente masculino con una amputación parcial de la mano no dominante. A modo de solución, se diseñaron dos prótesis en cuyo proceso de diseño fue crucial la retroalimentación del paciente para crear un producto que ayude al usuario en sus actividades laborales. Estas prótesis personalizadas e impresas en 3D con silicona incrustada fueron evaluadas utilizando el Test de Función de la Mano Jebsen; mediante el cual se observó que, un diseño de prótesis más simple (prótesis 2) fue más útil y robusto que uno sofisticado (prótesis 1). Por otro lado, el estudio destaca el potencial de las prótesis impresas en 3D e importancia de la personalización para mejorar la calidad de vida de personas con amputaciones parciales de la mano.
+El estudió se centró en un usuario masculino con una amputación parcial de la mano no dominante. A modo de solución, se diseñaron dos prótesis en cuyo proceso de diseño fue crucial la retroalimentación del usuario para crear un producto que ayude al usuario en sus actividades laborales. Estas prótesis personalizadas e impresas en 3D con silicona incrustada fueron evaluadas utilizando el Test de Función de la Mano Jebsen; mediante el cual se observó que, un diseño de prótesis más simple (prótesis 2) fue más útil y robusto que uno sofisticado (prótesis 1). Por otro lado, el estudio destaca el potencial de las prótesis impresas en 3D e importancia de la personalización para mejorar la calidad de vida de personas con amputaciones parciales de la mano.
+
+<image src ="Imágenes/2B.png"> 
+
+## Estado del arte comercial
+
+### A) Equipos o dispositivos existentes en el mercado /tabla de stirs/
+
+### B) Patentes de invención y Patentes de modelo de utilidad
+
+## Lista de requerimientos
+### Funcionales
+
+### No Funcionales
+
+## Propuesta de solución
 
 ## Docentes del curso
 
