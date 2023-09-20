@@ -32,7 +32,7 @@
 
 ### A) Contexto
 
-Según Global Burden of Disease (GBD) <sup>[#1]</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas en el período 1990 y 2019.
+Según Global Burden of Disease (GBD)<sup>#1</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas en el período 1990 y 2019.
 
 <image src ="Imágenes/1S.jpg"> 
 
