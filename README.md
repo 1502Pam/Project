@@ -170,18 +170,18 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ## Lista de requerimientos
 ### Funcionales
-- Permitir el agarre de fuerza necesario para permitir la reinserción laboral.
-- Poseer la fricción necesaria para evitar el deslizamiento de objetos.
-- Posibilitar el movimiento circundal del pulgar 
+- Realizar y regular el agarre de fuerza necesario para permitir la reinserción laboral.
+- Permitir el movimiento circundal del pulgar.
+- Medir los ángulos de los dedos restantes de la mano para ajustar su movimiento.
+- Almacenar energía en una bateria.
 
 ### No Funcionales
 - Ergonómico
 - Tamaño proporcional al tamaño del paciente
 - Ligero
 - De bajo costo
-- No obstaculizar el movimiento de los demás dedos
+- Poseer la fricción necesaria para evitar el deslizamiento de objetos.
 - De fácil transporte y mantenimiento
-- Movimiento intuitivo para el usuario
 
 ## Propuesta de solución
 Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
