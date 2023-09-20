@@ -177,11 +177,11 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ### No Funcionales
 - Ergonómico
-- Tamaño proporcional al tamaño del paciente
+- Tamaño proporcional al paciente
 - Ligero
-- De bajo costo
+- Accesible
 - Poseer la fricción necesaria para evitar el deslizamiento de objetos.
-- De fácil transporte y mantenimiento
+- Portátil 
 
 ## Propuesta de solución
 Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
