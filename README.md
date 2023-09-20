@@ -32,7 +32,7 @@
 
 ### A) Contexto
 
-Según Global Burden of Disease (GBD)<sup>[1](##1)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas en el período 1990 y 2019.
+Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas en el período 1990 y 2019.
 
 <image src ="Imágenes/1S.jpg"> 
 
@@ -197,7 +197,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, pe
 - Yeni Varillas Tacza
 
 ## Bibliografía 
-1.(##1) Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
+1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24 (##1)
 2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL MARZO 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640
 3. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL ABRIL 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828
 4. Graham EM, Hendrycks R, Baschuk CM, Atkins DJ, Keizer L, Duncan CC, et al. Restoring Form and Function to the Partial Hand Amputee: Prosthetic Options from the Fingertip to the Palm [Internet]. Vol. 37, Hand Clinics. W.B. Saunders; 2021 [citado 30 de agosto de 2023]. p. 167-87. Disponible en: https://doi.org/10.1016/j.hcl.2020.09.013
