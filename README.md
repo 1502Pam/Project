@@ -62,9 +62,7 @@ A nivel de Latinoamérica, se tiene una prevalencia superior a los 9 millones y 
 
 ###### Figura 5: Prevalencia de amputaciones del pulgar a nivel global en el período 1990-2019. Obtenido del GBD.
    
-En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos<sup>[2]https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640), [3](https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828)</sup> : 
-
-#### Tabla de elaboración propia 1
+En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos<sup>[2](https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640), [3](https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828)</sup> : 
 
 | Accidentes de trabajo | Especificación | Cantidad de personas afectadas | Fecha de registro de datos |
 | ------------- | ------------- | ------------- | -------------- |
@@ -75,7 +73,7 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 |  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
-##### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo
+###### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo
 
 En el mes indicado, 411 personas sufrieron de amputaciones de dedos; es decir, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013), [5](https://journals.sagepub.com/doi/abs/10.1177/1558944721999734)</sup>.
 
@@ -86,48 +84,49 @@ En el mes indicado, 411 personas sufrieron de amputaciones de dedos; es decir, e
    
 Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>; de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación<sup>[6](https://doi.org/10.1016/j.cjtee.2018.04.006)</sup>.
 
-##### Tabla de elaboración propia 2
-
 | Clasificación de la sensación de dolor | Descripción |
 |-----------|------------|
 | Dolor en el miembro residual  | Percepción dolorosa en el segmento no amputado |
 | Sensación fantasma | Percepción no dolorosa del segmento amputado |
 | Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
+###### Tabla 2: Clasificación de la sensación de dolor en el síndrome del miembro fantasma. Elaboración propia en base a los datos de la investigación de Kaur A. & Guan Y.
 
 Por otro lado, existen factores fundamentales que determinan la sensación de dolor:
 
-##### Tabla de elaboración propia 3
 | Factores |  | Descripción |
 |-----------|------------|-------|
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
 | Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
-| | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (7) y somatosensorial primaria (7). | 
+| | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
+###### Tabla 3: Factores de riesgo de dolor de miembro fantasma. Elaboración propia en base a la información de Kaur A. & Guang Y.
 
 Por tales factores, el miembro fantasma depende de muchos cambios neurológicos causados por un cambio drástico en la anatomía del miembro amputado. En el caso del pulgar, estos cambios podrían variar o ser más complejos debido al rol del pulgar en la anatomía y fisiología de la mano.
 
 #### 2. Merma del movimiento de la mano
 
-El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos __(figura 1)__: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S) (8).
+El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S)<sup>[7](http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf)</sup>.
 
-<image src ="Imágenes/1M_n.jpeg"> 
+¡IMAGEN DE MARIEL 1!
 
-Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición (9).
+###### Figura 6: Movimientos de la mano. Obtenido de la Asociación Española de Ingeniería Mecánica.
+
+Además, el movimiento de la mano es producido por los músculos extrínsecos e intrínsecos, destacando a este último por su ubicación en la región de la muñeca y por la produccción de los movimientos del pulgar: abducción, aducción, flexión y oposición<sup>[8](https://revistas.unal.edu.co/index.php/morfolia/article/view/31373/31379)</sup>.
 Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL predominantes (F/E y Ab/Ad); sin embargo, al amputarse este miembro, se pierden todos los movimientos del pulgar, mermando así los ángulos de rotación de la mano.
 
 #### 3. Pérdida de los agarres de fuerza
 
-Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia (4) y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral (5, 10).
+Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia<sup>[9](https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext)</sup> y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral<sup>[10](https://ieeexplore.ieee.org/document/6610858), [11](https://www.oandplibrary.org/al/pdf/1955_02_022.pdf)</sup>.
 
 <image src ="Imágenes/3M_n.jpeg"> 
+
+###### Figura 7: Clasificación de los distintos agarres de fuerza. Obtenido de Taylor, C. & Schwarz, R.
 
 
 ### C) Alternativas de solución actuales ante la amputación de un miembro
 
-En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual (11). Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada (12).
+En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. 
 
-Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón (5): al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades (12, 13, 14):
-
-#### Tabla de elaboración propia 4
+Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón<sup>[12](https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros)</sup>. : al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades<sup>[13](https://pubmed.ncbi.nlm.nih.gov/34043536/), [14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf)</sup>.
 
 | Prótesis | Descripción | Tasa de abandono |
 | ------------- | ------------- | ------------- |
@@ -135,8 +134,9 @@ Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una
 | Prótesis impulsadas por el cuerpo (Body-Powered) | - Aprovechan la anatomía restante de la amputación. - Independientes de baterías externas o electricidad. - Sincrónico con movimientos naturales de la mano. - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
 | Prótesis impulsadas externamente (Externally-Powered) | - Ideales para amputaciones trans-metacarpianas. - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | - Destinadas a varios tipos de amputaciones. - Limitación a una única función a suplir. - Preferido como herramienta de asistencia en lugar de reemplazo del bro amputado | |
+###### Tabla 4: Tipos de prótesis y tasa de abandono. Elaboración propia a partir de datos los documentos [13](https://pubmed.ncbi.nlm.nih.gov/34043536/) y [14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf).
 
-Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos usuarios amputados. Pese a ello, la manufactura aditiva es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable (9).
+Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos usuarios amputados. Pese a ello, la manufactura aditiva es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable<sup>[14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf)</sup>.
 
 
 ## Clínica de problemáticas en salud
