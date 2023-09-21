@@ -132,7 +132,7 @@ Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una
 
 | Prótesis | Descripción | Tasa de abandono |
 | ------------- | ------------- | ------------- |
-| Prótesis funcional pasiva | <p> - Aumenta la longitud digital. <p> - Restaura la cosmosis y mejora el desempeño general de la mano. <p> - Suelen estar hechos de silicona | 100% |
+| Prótesis funcional pasiva | <p> -Aumenta la longitud digital. <p> -Restaura la cosmosis y mejora el desempeño general de la mano. <p> -Suelen estar hechos de silicona | 100% |
 | Prótesis impulsadas por el cuerpo (Body-Powered) | <p> - Aprovechan la anatomía restante de la amputación. <p> - Independientes de baterías externas o electricidad. <p> - Sincrónico con movimientos naturales de la mano. <p> - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
 | Prótesis impulsadas externamente (Externally-Powered) | <p> - Ideales para amputaciones trans-metacarpianas. <p> - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. <p> - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | <p> - Destinadas a varios tipos de amputaciones. <p> - Limitación a una única función a suplir. <p> - Preferido como herramienta de asistencia en lugar de reemplazo del bro amputado | |
