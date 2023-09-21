@@ -36,9 +36,33 @@ Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-
 
 <image src ="Imágenes/1S.jpg"> 
    
-#### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD <sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>
+###### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD
+
+Inclusive los números han ido en crecimiento; por ende, se estima que, para este año 2023, la cifra habrá sobrepasado los 500 millones de personas mayores a 25 años con algún tipo de amputación.
+
+!IMAGEN BRAYAM 2!
+
+###### Figura 2: Gráfica de prevalencia del tipo de amputaciones en personas mayores a 25 años en el período 1990-2019 a nivel global. Obtenido del GBD
+
+El tipo de amputación más común es en dedos, con una prevalencia que supera los 300 millones casos y que representa el 69.71% de las amputaciones totales, según los datos otorgados por el GBD. Además, la gráfica hace una clara diferencia entre los dedos y el pulgar, esto puede deberse a una mayor importancia del pulgar sobre los demás dedos.
+
+!IMAGEN BRAYAM 3!
+
+###### Figura 3: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones en el pulgar a nivel global. Obtenido del GBD
+
+En cuanto a la estadística de amputaciones del pulgar, el 21.8% de amputaciones totales de dedos son de pulgares. Además, la incidencia de este tipo de amputación, en el año 2019, fue superior a un millón a nivel global.
+
+!IMAGEN BRAYAM 4!
+
+###### Figura 4: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones del pulgar en Latinoamérica. Obtenido del GBD
+
+A nivel de Latinoamérica, se tiene una prevalencia superior a los 9 millones y una incidencia, en 2019, de 128000 personas con amputaciones del pulgar. A partir de la gráfica, se aprecia que la zona andina de países como Perú, Bolivia y Ecuador tiene la menor estadística; no obstante, el tamaño de población de cada una es inferior respecto al resto de regiones latinoamericanas.
+
+!IMAGEN BRAYAM 5!
+
+###### Figura 5: Prevalencia de amputaciones del pulgar a nivel global en el período 1990-2019. Obtenido del GBD.
    
-En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos<sup>[2](https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640), [3](https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828)</sup>: 
+En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos<sup>[2]https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640), [3](https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828)</sup> : 
 
 #### Tabla de elaboración propia 1
 
@@ -51,7 +75,7 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 |  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
-##### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo<sup>[2](https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640)</sup>.
+##### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo
 
 En el mes indicado, 411 personas sufrieron de amputaciones de dedos; es decir, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013), [5](https://journals.sagepub.com/doi/abs/10.1177/1558944721999734)</sup>.
 
