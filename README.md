@@ -149,24 +149,24 @@ Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes
 
 ## Problemática
 
-Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza para personas que buscan la inserción laboral en el Perú.
+Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza.
 
 ## Estado del arte científico
-1. El tercer pulgar (15)
+1. El tercer pulgar<sup>[13](https://pubmed.ncbi.nlm.nih.gov/34043536/)</sup>.
 
 Se llevó a cabo una investigación orientada a determinar la viabilidad de alcanzar una mejora motora exitosa mediante la adición de un pulgar robótico suplementario, y a su vez, explorar las implicaciones que ello conlleva tanto en la representación neuronal como en la funcionalidad de la mano biológica. 
-Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, además los participantes fueron sometidos a una serie de evaluaciones que abarcan pruebas de imágenes cerebrales y de comportamiento con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
-Los resultados revelaron notables avances en términos del control motor del tercer pulgar,  destreza, coordinación entre la mano-dispositivo y “encarnación”. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica. Adicionalmente, a través de la decodificación de las señales cerebrales, se identificó una ligera alteración en la representación motora del miembro amplificado tras el periodo de entrenamiento, inclusive en momentos en los cuales el tercer pulgar no era empleado activamente. Estas ramificaciones neurocognitivas revisten vital importancia para el exitoso desarrollo de futuras tecnologías de amplificación.
+Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
+Los resultados revelaron notables avances en términos del control motor del tercer pulgar. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica.
 
 <image src ="Imágenes/tercer_pulgar.jpg"> 
 
-2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note (16)
+2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note<sup>[15](https://journals.sagepub.com/doi/epub/10.1177/0309364616679315)</sup>.
 
 Se creó una prótesis personalizada a un hombre de 67 años con una amputación del pulgar derecho por encima de la articulación metacarpofalángica. Para la prótesis se escanearon las manos del usuario y se procedió a imprimir en 3D la prótesis del pulgar derecho con un elastómero termoplástico flexible, todo en un lapso de 48 horas y a un costo de $50. Posteriormente, se evaluó el producto mediante el Test de Función de la Mano Jebsen-Taylor y el Test de Bloques y Cajas. Los resultados de satisfacción del usuario fueron “muy satisfechos” y se reportó gran facilidad para actividades cotidianas al emplear la prótesis.
 
 <image src ="Imágenes/4B.png"> 
 
-3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso (17)
+3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso<sup>[16](https://pubmed.ncbi.nlm.nih.gov/29196160/)</sup>.
    
 El estudió se centró en un usuario masculino con una amputación parcial de la mano no dominante. A modo de solución, se diseñaron dos prótesis en cuyo proceso de diseño fue crucial la retroalimentación del usuario para crear un producto que ayude al usuario en sus actividades laborales. Estas prótesis personalizadas e impresas en 3D con silicona incrustada fueron evaluadas utilizando el Test de Función de la Mano Jebsen; mediante el cual se observó que, un diseño de prótesis más simple (prótesis 2) fue más útil y robusto que uno sofisticado (prótesis 1). Por otro lado, el estudio destaca el potencial de las prótesis impresas en 3D e importancia de la personalización para mejorar la calidad de vida de personas con amputaciones parciales de la mano.
 
@@ -220,24 +220,23 @@ Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, pe
 - Umberto Lewis De la Cruz Rodriguez
 - Juan Manuel Zuñiga Mamamni
 - Jose Alonso Caceres del Aguila
-- Andres Arturo Rodrigo de Velasco
+- Andres Arturo Rodriguez De Velasco
 - Yeni Varillas Tacza
 
 ## Bibliografía 
-1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24 (##1)
-2. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL MARZO 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640
-3. Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL ABRIL 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828
-4. Graham EM, Hendrycks R, Baschuk CM, Atkins DJ, Keizer L, Duncan CC, et al. Restoring Form and Function to the Partial Hand Amputee: Prosthetic Options from the Fingertip to the Palm [Internet]. Vol. 37, Hand Clinics. W.B. Saunders; 2021 [citado 30 de agosto de 2023]. p. 167-87. Disponible en: https://doi.org/10.1016/j.hcl.2020.09.013
-5. Deivasigamani S, Azad A, Yang SS. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors. Hand [Internet]. 1 de enero de 2023 [citado 30 de agosto de 2023];18(1):145-52. Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
-6. Kaur A, Guan Y. Phantom limb pain: A literature review [Internet]. Vol. 21, Chinese Journal of Traumatology - English Edition. Elsevier B.V.; 2018 [citado 12 de septiembre de 2023]. p. 366-8. Disponible en: https://doi.org/10.1016/j.cjtee.2018.04.006
-7. Bru JLS, Vergara M, Jarque Bou NJ, Aguilar MM, Pérez González A. Asociación Española de Ingeniería Mecánica XIX CONGRESO NACIONAL DE INGENIERÍA MECÁNICA Medición del movimiento de todos los segmentos de la mano mediante videogrametría [Internet]. 2012 [citado 12 de septiembre de 2023]. Disponible en: http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf
-8. Arias López LA. Biomecánica y patrones funcionales de la mano [Internet]. Vol. 4. 2012 [citado 12 de septiembre de 2023]. Disponible en: https://revistas.unal.edu.co/index.php/morfolia/article/view/31373/31379
-9. van Heijningen VG, Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger. Journal of Hand Therapy [Internet]. 1 de abril de 2022 [citado 30 de agosto de 2023];35(2):289-98. Disponible en: https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext
-10. IEEE Engineering in Medicine and Biology Society, Annual International Conference of the IEEE Engineering in Medicine and Biology Society 35 2013.07.03-07 Osaka, EMBC 35 2013.07.03-07 Osaka, EMBS Annual Conference 35 2013.07.03-07 Osaka. 2013 35th annual international conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 3-7 July 2013, Osaka, Japan [Internet]. 2013 [citado 12 de septiembre de 2023]. Disponible en: https://ieeexplore.ieee.org/document/6610858
-11. Taylor CL, Schwarz RJ. The Anatomy and Mechanics of the Human Hand [Internet]. 1955 [citado 12 de septiembre de 2023]. Disponible en: https://www.oandplibrary.org/al/pdf/1955_02_022.pdf
-12. Jan J. Stokosa. Opciones para las prótesis de los miembros. En: Manual MSD. 2021. https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros
-13. Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
-14. Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: www.tricare.mil 
-15. Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
-16. Lee KH, Kim SJ, Cha YH, Kim JL, Kim DK, Kim SJ. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note. Prosthet Orthot Int [Internet]. 1 de febrero de 2018 [citado 12 de septiembre de 2023];42(1):107-11. Disponible en: https://journals.sagepub.com/doi/epub/10.1177/0309364616679315
-17. Alvial P, Bravo G, Bustos MP, Moreno G, Alfaro R, Cancino R, et al. Quantitative functional evaluation of a 3D–printed silicone-embedded prosthesis for partial hand amputation: A case report. Journal of Hand Therapy. 1 de enero de 2018;31(1):129-36. 
+1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
+2.	Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL MARZO 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640
+3.	Ministerio de Trabajo y Promoción del Empleo. Notificaciones de accidentes de trabajo, incidentes peligrosos y enfermedades ocupacionales BOLETÍN ESTADÍSTICO MENSUAL ABRIL 2023 [Internet]. 2023 [citado 30 de agosto de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828
+4.	Graham EM, Hendrycks R, Baschuk CM, Atkins DJ, Keizer L, Duncan CC, et al. Restoring Form and Function to the Partial Hand Amputee: Prosthetic Options from the Fingertip to the Palm [Internet]. Vol. 37, Hand Clinics. W.B. Saunders; 2021 [citado 30 de agosto de 2023]. p. 167-87. Disponible en: https://doi.org/10.1016/j.hcl.2020.09.013
+5.	Deivasigamani S, Azad A, Yang SS. The Variable Insertional Anatomy of the Abductor Pollicis Longus: Functional Relevance and Relationship to Adjacent Thumb Extensors. Hand [Internet]. 1 de enero de 2023 [citado 30 de agosto de 2023];18(1):145-52. Disponible en: https://journals.sagepub.com/doi/abs/10.1177/1558944721999734
+6.	Kaur A, Guan Y. Phantom limb pain: A literature review [Internet]. Vol. 21, Chinese Journal of Traumatology - English Edition. Elsevier B.V.; 2018 [citado 12 de septiembre de 2023]. p. 366-8. Disponible en: https://doi.org/10.1016/j.cjtee.2018.04.006
+7.	Bru JLS, Vergara M, Jarque Bou NJ, Aguilar MM, Pérez González A. Asociación Española de Ingeniería Mecánica XIX CONGRESO NACIONAL DE INGENIERÍA MECÁNICA Medición del movimiento de todos los segmentos de la mano mediante videogrametría [Internet]. 2012 [citado 12 de septiembre de 2023]. Disponible en: http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf
+8.	Arias López LA. Biomecánica y patrones funcionales de la mano [Internet]. Vol. 4. 2012 [citado 12 de septiembre de 2023]. Disponible en: https://revistas.unal.edu.co/index.php/morfolia/article/view/31373/31379
+9.	van Heijningen VG, Underhill A. User experiences of digital prostheses in daily functioning in people with an amputation of thumb or finger. Journal of Hand Therapy [Internet]. 1 de abril de 2022 [citado 30 de agosto de 2023];35(2):289-98. Disponible en: https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext
+10.	IEEE Engineering in Medicine and Biology Society, Annual International Conference of the IEEE Engineering in Medicine and Biology Society 35 2013.07.03-07 Osaka, EMBC 35 2013.07.03-07 Osaka, EMBS Annual Conference 35 2013.07.03-07 Osaka. 2013 35th annual international conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 3-7 July 2013, Osaka, Japan [Internet]. 2013 [citado 12 de septiembre de 2023]. Disponible en: https://ieeexplore.ieee.org/document/6610858
+11.	Taylor CL, Schwarz RJ. The Anatomy and Mechanics of the Human Hand [Internet]. 1955 [citado 12 de septiembre de 2023]. Disponible en: https://www.oandplibrary.org/al/pdf/1955_02_022.pdf
+12.	Jan J. Stokosa. Opciones para las prótesis de los miembros. En: Manual MSD. 2021. 
+13.	Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
+14.	Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: www.tricare.mil
+15.	Lee KH, Kim SJ, Cha YH, Kim JL, Kim DK, Kim SJ. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note. Prosthet Orthot Int [Internet]. 1 de febrero de 2018 [citado 12 de septiembre de 2023];42(1):107-11. Disponible en: https://journals.sagepub.com/doi/epub/10.1177/0309364616679315
+16.	Alvial P, Bravo G, Bustos MP, Moreno G, Alfaro R, Cancino R, et al. Quantitative functional evaluation of a 3D–printed silicone-embedded prosthesis for partial hand amputation: A case report. Journal of Hand Therapy. 1 de enero de 2018;31(1):129-36. 
