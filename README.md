@@ -32,11 +32,13 @@
 
 ### A) Contexto
 
-Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas en el período 1990 y 2019.
+Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los periodos 1990 y 2019.
 
 <image src ="Imágenes/1S.jpg"> 
-
-En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos (2): 
+   
+#### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>
+   
+En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo en el período 1990-2019; además, según el Boletín Estadístico Mensual de Notificaciones de accidentes de Trabajo, Incidentes Peligrosos y Enfermedades Ocupacionales, durante el mes de abril del 2023, se reportaron 2390 personas que sufrieron accidentes de trabajo, destacando los siguientes datos<sup>[2](https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640), [3](https://cdn.www.gob.pe/uploads/document/file/4811381/SAT_ABRIL_2023_opt.pdf?v=1688744828)</sup>: 
 
 #### Tabla de elaboración propia 1
 
@@ -49,15 +51,16 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 |  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
+##### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo<sup>[2](https://cdn.www.gob.pe/uploads/document/file/4811002/SAT_MARZO_2023_opt.pdf?v=1688742640)</sup>.
 
-En el mes indicado, 411 personas sufrieron de amputaciones de dedos, lo que quiere decir que, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona (3, 4).
+En el mes indicado, 411 personas sufrieron de amputaciones de dedos; es decir, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013), [5](https://journals.sagepub.com/doi/abs/10.1177/1558944721999734)</sup>.
 
 
 ### B) Consecuencias de un pulgar amputado
 
 #### 1. Síndrome del miembro fantasma
    
-Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas (5); de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación (6).
+Perder una parte del cuerpo desencadena una serie de consecuencias funcionales psicológicas y fisiológicas<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>; de hecho, la consecuencia más común y conocida es el síndrome del miembro fantasma. Entre un 60-80% de los usuarios amputados experimentan sensación de dolor del miembro fantasma, donde el 95% de estos reportan experimentar dolor en las primeras semanas posteriores a la amputación y el 60-70% después de un año de la amputación<sup>[6](https://doi.org/10.1016/j.cjtee.2018.04.006)</sup>.
 
 ##### Tabla de elaboración propia 2
 
