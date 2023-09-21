@@ -8,13 +8,15 @@
 ## Tabla de contenido
 
 - [Roles de los integrantes del proyecto](#Roles-de-los-integrantes-del-proyecto).
-- [Análisis del caso](#Análisis-del-caso).
+- [Análisis del caso clínico](#Análisis-del-caso-clínico).
 - [Clínica de problemáticas en salud](#Clínica-de-problemáticas-en-salud).
 - [Problemática](#Problemática).
 - [Estado del arte científico](#Estado-del-arte-científico).
 - [Estado del arte comercial](#Estado-del-arte-comercial).
 - [Lista de requerimientos](#Lista-de-requerimientos).
-- [Propuesta de solución](#Propuesta-de-solución)
+- [Propuesta de solución](#Propuesta-de-solución).
+- [Esquema de funciones](#Esquema-de-funciones).
+- [Matriz morfológica](#Matriz-morfológica).
 - [Docentes del curso](#Docentes-del-curso).
 - [Bibliografía](#Bibliografía).
 
@@ -212,6 +214,11 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ## Propuesta de solución
 Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
+
+## Esquema de funciones
+## Matriz morgológica 
+
+
 
 ## Docentes del curso
 
