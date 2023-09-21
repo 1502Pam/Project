@@ -132,7 +132,7 @@ Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una
 
 | Prótesis | Descripción | Tasa de abandono |
 | ------------- | ------------- | ------------- |
-| Prótesis funcional pasiva | <p> -Aumenta la longitud digital. <p> -Restaura la cosmosis y mejora el desempeño general de la mano. <p> -Suelen estar hechos de silicona | 100% |
+| Prótesis funcional pasiva | <p> - Aumenta la longitud digital. <p> - Restaura la cosmosis y mejora el desempeño general de la mano. <p> - Suelen estar hechos de silicona | 100% |
 | Prótesis impulsadas por el cuerpo (Body-Powered) | <p> - Aprovechan la anatomía restante de la amputación. <p> - Independientes de baterías externas o electricidad. <p> - Sincrónico con movimientos naturales de la mano. <p> - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
 | Prótesis impulsadas externamente (Externally-Powered) | <p> - Ideales para amputaciones trans-metacarpianas. <p> - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. <p> - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | <p> - Destinadas a varios tipos de amputaciones. <p> - Limitación a una única función a suplir. <p> - Preferido como herramienta de asistencia en lugar de reemplazo del bro amputado | |
@@ -183,7 +183,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 | GripLock Finger | THUMBDriver | PIPDriver |
 | <image src ="Imágenes/griplock.png"> | <image src ="Imágenes/thumbdriver.png"> | <image src ="Imágenes/PIPdriver.png"> |
 | Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial de. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre.|Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
-| *Materiales: nylon 12 (medical grade), silicona, aluminio 7075-T6 *Resistencia al calor: nylon 175 C, silicona 204.4C | *Materiales: nylon 12 (medical grade), silicona, stainless 316, titanio *Resistencia al calor: nylon 175 C, silicona 204.4C *Resistencia a la tensión del anillo: 36.28kg | *Materiales: nylon 12(grado médico), silicona, titanio *Resistencia al calor: nylon 175 C, silicona 204.4C *Resistencia al aplastamiento: mayor a 27.22kg |
+| Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - aluminio 7075-T6 <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4C | Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - stainless 316, titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4C <p> Resistencia a la tensión del anillo: 36.28kg | Materiales: <p> - nylon 12(grado médico) <p> - silicona <p> - titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4C <p> Resistencia al aplastamiento: mayor a 27.22kg |
 
 
 
