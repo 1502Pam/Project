@@ -7,15 +7,15 @@
 
 ## Tabla de contenido
 
-- [Roles de los integrantes del proyecto](##Roles_de_los_integrantes_del_proyecto).
-- [Análisis del caso](##Análisis_del_caso).
-- [Clínica de problemáticas en salud](##Clínica_de_problemáticas_en_salud).
+- [Roles de los integrantes del proyecto](##Roles-de-los-integrantes-del-proyecto).
+- [Análisis del caso](##Análisis-del-caso).
+- [Clínica de problemáticas en salud](##Clínica-de-problemáticas-en-salud).
 - [Problemática](##Problemática).
-- [Estado del arte científico](##Estado_del_arte_científico).
-- [Estado del arte comercial](##Estado_del_arte_comercial).
-- [Lista de requerimientos](##Lista_de_requerimientos).
-- [Propuesta de solución](##Propuesta_de_solución)
-- [Docentes del curso](##Docentes_del_curso).
+- [Estado del arte científico](##Estado-del-arte-científico).
+- [Estado del arte comercial](##Estado-del-arte-comercial).
+- [Lista de requerimientos](##Lista-de-requerimientos).
+- [Propuesta de solución](##Propuesta-de-solución)
+- [Docentes del curso](##Docentes-del-curso).
 - [Bibliografía](##Bibliografía).
 
 
