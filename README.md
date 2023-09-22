@@ -227,12 +227,12 @@ Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre.
 
 ## Esquema de funciones
 
-<image src ="Imágenes/matriz_morfológica.jpeg"> 
+<image src ="Imágenes/Esquema_de_funciones.jpeg"> 
 
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/foto_grupal_2.jp"> 
+<image src ="Imágenes/matriz_morfológica.jpeg">
 
 ## Tabla de valoración
 
