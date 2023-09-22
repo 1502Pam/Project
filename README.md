@@ -109,7 +109,7 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S)<sup>[7](http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf)</sup>.
 
-¡IMAGEN DE MARIEL 1!
+<image src ="Imágenes/1M_n.jpeg"> 
 
 ###### Figura 6: Movimientos de la mano. Obtenido de la Asociación Española de Ingeniería Mecánica.
 
@@ -120,7 +120,7 @@ Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL 
 
 Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia<sup>[9](https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext)</sup> y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral<sup>[10](https://ieeexplore.ieee.org/document/6610858), [11](https://www.oandplibrary.org/al/pdf/1955_02_022.pdf)</sup>.
 
-¡IMAGEN DE MARIEL 2!
+<image src ="Imágenes/3M_n.jpeg"> 
 
 ###### Figura 7: Clasificación de los distintos agarres de fuerza. Obtenido de Taylor, C. & Schwarz, R.
 
