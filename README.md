@@ -217,7 +217,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 
 ## Propuesta de solución
-Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
+Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre.
 
 
 ## Caja negra
