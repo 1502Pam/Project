@@ -109,7 +109,7 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S)<sup>[7](http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf)</sup>.
 
-¡IMAGEN DE MARIEL 1!
+<image src ="Imágenes/1M_n.jpeg"> 
 
 ###### Figura 6: Movimientos de la mano. Obtenido de la Asociación Española de Ingeniería Mecánica.
 
@@ -120,7 +120,7 @@ Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL 
 
 Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia<sup>[9](https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext)</sup> y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral<sup>[10](https://ieeexplore.ieee.org/document/6610858), [11](https://www.oandplibrary.org/al/pdf/1955_02_022.pdf)</sup>.
 
-¡IMAGEN DE MARIEL 2!
+<image src ="Imágenes/3M_n.jpeg"> 
 
 ###### Figura 7: Clasificación de los distintos agarres de fuerza. Obtenido de Taylor, C. & Schwarz, R.
 
@@ -150,9 +150,11 @@ Además, existen diversos problemas de los miembros inferiores en la amputación
 
 Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes dificultades tras la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
 
+
 ## Problemática
 
 Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza.
+
 
 ## Estado del arte científico
 1. El tercer pulgar<sup>[13](https://pubmed.ncbi.nlm.nih.gov/34043536/)</sup>.
@@ -175,25 +177,24 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 <image src ="Imágenes/2B.png"> 
 
+
 ## Estado del arte comercial
 
 ### A) Equipos o dispositivos existentes en el mercado
 
 || Dispositivos existentes en el mercado ||
 | ------------- | ------------- |------------- |
-| GripLock Finger | THUMBDriver | PIPDriver |
+| GripLock Finger<sup>[17](https://www.npdevices.com/wp-content/uploads/2022/01/GripLock-Finger-Solo-Sheet-English-Dec-20-2021-edge-.pdf)</sup> | THUMBDriver<sup>[18](https://www.npdevices.com/wp-content/uploads/2022/01/ThumbDriver-Solo-Sheet-English-Dec-20-2021-edge.pdf)</sup> | PIPDriver<sup>[19](https://www.npdevices.com/wp-content/uploads/2022/01/PIPDriver-Solo-Sheet-English-Dec-20-2021-edge.pdf)</sup> |
 | <image src ="Imágenes/griplock.png"> | <image src ="Imágenes/thumbdriver.png"> | <image src ="Imágenes/PIPdriver.png"> |
-| Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial de. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre.|Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
+| Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial a medida. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre.|Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
 | Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - aluminio 7075-T6 <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4C | Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - stainless 316 <p> - titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4 C <p> Resistencia a la tensión del anillo: <p> - 36.28kg | Materiales: <p> - nylon 12 (grado médico) <p> - silicona <p> - titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4 C <p> Resistencia al aplastamiento: <p> - mayor a 27.22kg |
-
-
 
 
 ### B) Patentes de invención y Patentes de modelo de utilidad
 
 || Invención|| Utilidad |
 | ------------- | ------------- |------------- |---------- |
-| Prótesis mioeléctrica y método (1Y)	| Prótesis de mano multifuncional y autónoma (2Y)	| Una prótesis de mano (3Y)	| Prótesis trans de articulación de muñeca y pulgar impresora 3D (4Y) |
+| Prótesis mioeléctrica y método<sup>[20](https://patents.google.com/patent/US10376389B2/en?q=(amputation+prothesis+thumb)&oq=amputation+or+prothesis+thumb+)</sup>	| Prótesis de mano multifuncional y autónoma<sup>[21](https://worldwide.espacenet.com/patent/search?q=pn%3DES2571880T3)</sup>	| Una prótesis de mano<sup>[22](https://worldwide.espacenet.com/patent/search?q=pn%3DWO2022132105A1)</sup>	| Prótesis trans de articulación de muñeca y pulgar impresora 3D<sup>[23](https://worldwide.espacenet.com/patent/search?q=pn%3DCN218652141U)</sup> |
 | <image src ="Imágenes/protesis_mioeléctrica.png"> | <image src ="Imágenes/protesis_multifuncional.png"> | <image src ="Imágenes/protesis_mano.png"> | <image src ="Imágenes/protesis_trans.png"> |
 | Gaston y Loeffler -Estados Unidos (2017) | Controzzi, Clemente, Cipriani, Carrozza - España (2016) | HOCAOĞLU ÇETİNSOY – Turkia (2022) | Wei Qipei; Liu Chang; Yang Chen; Chen Shanlin – China (2023) |
 | Es una próstesis de trasferencia de señales con electrodos, describe con exactitud la conexión de cada uno de los nervios que generan el movimiento de los músculos en la mano. Utiliza microprocesadores multicanal, entradas EMG, motores, etc., es el mayor avance para las prótesis mioeléctricas. El ensamblado al paciente es un método quirúrgico. | Prótesis de mano que permite la rotación, abducción y flexión del dedo, a partir de un sistema eléctrico y árbol motor rotativo que están programados para el movimiento restringido, a partir del análisis del movimiento angular. Utilizan el mecanismo rotativo de cruz de malta y una línea de trasmisión del movimiento. | Se utiliza señales electromiografías de superficie y polímeros que tiene memoria elástica y que cambian su rigidez dependiendo de factores externos. Dividen la estructura tres huesos con poleas y calentadores. EL movimiento lo generan motores DC de control, no se utiliza ningún tipo de algoritmo, es de bajo costo, gran adaptabilidad al amputado, lo que reduce el tiempo de rehabilitación. | A otras modelos de prótesis 3D se incluye una bola, tapa y varilla metacarpiana que se conectan por rosca con los otros huesos y la varilla se coloca en una posición alejada mejorando el uso técnico de la prótesis. Utiliza materiales como polietileno, cromo de cobalto, aleación de aluminio biológicamente compatibles. |
@@ -214,19 +215,34 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 - Poseer la fricción necesaria para evitar el deslizamiento de objetos.
 - Portátil 
 
+
 ## Propuesta de solución
-Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, permitiendo la realización de movimientos esenciales con el fin de lograr una reintegración laboral óptima.
+Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre.
+
 
 ## Caja negra
 
 <image src ="Imágenes/Caja_negra.jpeg"> 
 
+
 ## Esquema de funciones
 
 <image src ="Imágenes/Esquema_de_funciones.jpeg"> 
 
-## Matriz morgológica 
 
+## Matriz morfológica 
+
+
+## Tabla de valoración
+
+| N° | Criterios | CS1 | CS2 | CS3 |
+|-----------|------------|-----------|-----------|-----------|
+| 1 |------------|-----------|-----------|-----------|
+| 2 |------------|-----------|-----------|-----------|
+| 3 |------------|-----------|-----------|-----------|
+
+
+## Conclusión del CS
 
 
 ## Docentes del curso
@@ -252,7 +268,14 @@ Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre, pe
 10.	IEEE Engineering in Medicine and Biology Society, Annual International Conference of the IEEE Engineering in Medicine and Biology Society 35 2013.07.03-07 Osaka, EMBC 35 2013.07.03-07 Osaka, EMBS Annual Conference 35 2013.07.03-07 Osaka. 2013 35th annual international conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 3-7 July 2013, Osaka, Japan [Internet]. 2013 [citado 12 de septiembre de 2023]. Disponible en: https://ieeexplore.ieee.org/document/6610858
 11.	Taylor CL, Schwarz RJ. The Anatomy and Mechanics of the Human Hand [Internet]. 1955 [citado 12 de septiembre de 2023]. Disponible en: https://www.oandplibrary.org/al/pdf/1955_02_022.pdf
 12.	Jan J. Stokosa. Opciones para las prótesis de los miembros. En: Manual MSD. 2021. 
-13.	Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://www.science.org
-14.	Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: www.tricare.mil
+13.	Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://pubmed.ncbi.nlm.nih.gov/34043536/
+14.	Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
 15.	Lee KH, Kim SJ, Cha YH, Kim JL, Kim DK, Kim SJ. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note. Prosthet Orthot Int [Internet]. 1 de febrero de 2018 [citado 12 de septiembre de 2023];42(1):107-11. Disponible en: https://journals.sagepub.com/doi/epub/10.1177/0309364616679315
-16.	Alvial P, Bravo G, Bustos MP, Moreno G, Alfaro R, Cancino R, et al. Quantitative functional evaluation of a 3D–printed silicone-embedded prosthesis for partial hand amputation: A case report. Journal of Hand Therapy. 1 de enero de 2018;31(1):129-36. 
+16.	Alvial P, Bravo G, Bustos MP, Moreno G, Alfaro R, Cancino R, et al. Quantitative functional evaluation of a 3D–printed silicone-embedded prosthesis for partial hand amputation: A case report. Journal of Hand Therapy. 1 de enero de 2018;31(1):129-36.
+17.	Npdevices.com. [citado el 21 de septiembre de 2023]. Disponible en: https://www.npdevices.com/wp-content/uploads/2022/01/GripLock-Finger-Solo-Sheet-English-Dec-20-2021-edge-.pdf
+18. Robust A, solution. F. ThumbDriver | 2nd GENERATION [Internet]. Npdevices.com. [citado el 21 de septiembre de 2023]. Disponible en: https://www.npdevices.com/wp-content/uploads/2022/01/GripLock-Finger-Solo-Sheet-English-Dec-20-2021-edge-.pdf
+19. Robust A, solution. F. PIPDriver | 2nd GENERATION [Internet]. Npdevices.com. [citado el 21 de septiembre de 2023]. Disponible en: https://www.npdevices.com/wp-content/uploads/2022/01/PIPDriver-Solo-Sheet-English-Dec-20-2021-edge.pdf
+20. Gaston, G y Loeffler, B. Prótesis mioeléctrica y método [Patente]. Estados Unidos: 2017. Disponible en: [US10376389B2 - Myoelectric prosthesis and method - Google Patents](https://patents.google.com/patent/US10376389B2/en?q=(amputation+prothesis+thumb)&oq=amputation+or+prothesis+thumb+)
+21. Controzzi, Clemente, Cipriani, Carrozza. Prótesis de mano multifuncional y autónoma. [Patente]. España: 2016. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DES2571880T3
+22. HOCAOĞLU ÇETİNSOY. Una prótesis de mano. [Patente]. Turkia: 2022. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DWO2022132105A1
+23. Qipei, W. Chang, L. Chen, Y. Shanlin, C. Prótesis trans de articulación de muñeca y pulgar impresora 3D. [Patente]. China: 2023. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DCN218652141U
