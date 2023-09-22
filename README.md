@@ -238,13 +238,21 @@ Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre.
 
 | N° | Criterios | CS1 | CS2 | CS3 |
 |-----------|------------|-----------|-----------|-----------|
-| 1 |------------|-----------|-----------|-----------|
-| 2 |------------|-----------|-----------|-----------|
-| 3 |------------|-----------|-----------|-----------|
-
+| 1 |Funcionalidad|**3**|3|3|
+| 2 |Nivel de Innovacion|**3**|2|4|
+| 3 |Seguridad|**2**|3|2|
+| 4 |Disponibilidad de repuestos|**4**|4|1|
+| 5 |Durabilidad|**4**|2|3|
+| 6 |Ligereza|**2**|3|2|
+| 7 |Portabilidad|**3**|2|2|
+| 8 |Posibilidad de automatización|**3**|3|3|
+| 9 |Costo de operación|**3**|3|2|
+| 10 |Costo de tecnología|**2**|2|2|
+|----|Suma total| **29** | 27 | 24 |
 
 ## Conclusión del CS
 
+Se ha optado por la primera propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
 
 ## Docentes del curso
 
