@@ -217,7 +217,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 
 ## Propuesta de solución
-Pulgar eléctrico protésico diseñado para restaurar la fuerza de agarre.
+Pulgar mioeléctrico protésico diseñado para restaurar la fuerza de agarre.
 
 
 ## Caja negra
