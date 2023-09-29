@@ -18,6 +18,9 @@
 - [Caja negra](#Caja-negra).
 - [Esquema de funciones](#Esquema-de-funciones).
 - [Matriz morfológica](#Matriz-morfológica).
+- [Tabla de valoración](#Tabla-de-valoración).
+- [Conclusión-del-CS](#Conclusión-del-CS).
+- [Bocetos](#Bocetos).
 - [Docentes del curso](#Docentes-del-curso).
 - [Bibliografía](#Bibliografía).
 
@@ -227,7 +230,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 ## Esquema de funciones
 
-<image src ="Imágenes/esquema.png"> 
+<image src ="Imágenes/esquema_actualizado.jpeg"> 
 
 
 ## Matriz morfológica 
@@ -253,6 +256,22 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 ## Conclusión del CS
 
 Se ha optado por la primera propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+
+## Bocetos
+
+Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 1
+
+Dibujado por: Pamela Nicole Vilchez Cotrina
+
+<image src ="Imágenes/boceto1.png">
+
+Lista de despiece
+
+<image src ="Imágenes/despiece_1.png">
+
+Descripción del funcionamiento
+
+La prótesis del dedo pulgar recibe la señal proveniente del dedo pulgar de la otra mano, la cual es captada por el sensor EMG, y es procesada por el arduino nano 33 iot que presenta un microprocesador, el cual transmite la señal obtenida vía bluetooth. Dicho microprocesador está siendo alimentado por una fuente de energía provista por una batería. Esta señal transmitida es recibida por el servomotor, el cual se encarga de activar el funcionamiento de la prótesis mediante el hilo tensor de nylon. Para proteger los componentes electrónicos y mecánicos del sistema, se ha aplicado una cubierta impermeable de nylon sobre ellos. Este revestimiento de nylon garantiza la integridad y el funcionamiento de los componentes en diversas condiciones ambientales.
 
 ## Docentes del curso
 
