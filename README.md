@@ -267,7 +267,7 @@ Dibujado por: Pamela Nicole Vilchez Cotrina
 
 Lista de despiece
 
-<image src ="Imágenes/despiece_1.png">
+<image src ="Imágenes/despiece_1_Actualizazo.jpeg">
 
 Descripción del funcionamiento
 
