@@ -235,7 +235,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/componentes.jpg">
+<image src ="Imágenes/matriz_nueva.jpeg">
 
 ## Tabla de valoración
 
@@ -276,9 +276,11 @@ La prótesis del dedo pulgar recibe la señal proveniente del dedo pulgar de la 
 ### Título del proyecto: 
 Dibujado por: Brayam Joe Lazares Salcedo
 
+<image src ="Imágenes/boceto_2.jpeg">
+
 Lista de despiece
 
-<image src ="Imágenes/">
+<image src ="Imágenes/despiece_2.jpeg">
 
 Descripción del funcionamiento
 
