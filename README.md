@@ -18,6 +18,9 @@
 - [Caja negra](#Caja-negra).
 - [Esquema de funciones](#Esquema-de-funciones).
 - [Matriz morfológica](#Matriz-morfológica).
+- [Tabla de valoración](#Tabla-de-valoración).
+- [Conclusión-del-CS](#Conclusión-del-CS).
+- [Bocetos](#Bocetos).
 - [Docentes del curso](#Docentes-del-curso).
 - [Bibliografía](#Bibliografía).
 
@@ -257,15 +260,16 @@ Se ha optado por la primera propuesta conceptual como la solución más apropiad
 ## Bocetos
 
 Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 1
-Dibujado por: Pamela Vilchez
+
+Dibujado por: Pamela Nicole Vilchez Cotrina
 
 <image src ="Imágenes/boceto1.png">
 
-### Lista de despiece
+Lista de despiece
 
 <image src ="Imágenes/despiece_1.png">
 
-### Descripción del funcionamiento
+Descripción del funcionamiento
 
 La prótesis del dedo pulgar recibe la señal proveniente del dedo pulgar de la otra mano, la cual es captada por el sensor EMG, y es procesada por el arduino nano 33 iot que presenta un microprocesador, el cual transmite la señal obtenida vía bluetooth. Dicho microprocesador está siendo alimentado por una fuente de energía provista por una batería. Esta señal transmitida es recibida por el servomotor, el cual se encarga de activar el funcionamiento de la prótesis mediante el hilo tensor de nylon. Para proteger los componentes electrónicos y mecánicos del sistema, se ha aplicado una cubierta impermeable de nylon sobre ellos. Este revestimiento de nylon garantiza la integridad y el funcionamiento de los componentes en diversas condiciones ambientales.
 
