@@ -284,6 +284,8 @@ Lista de despiece
 
 Descripción del funcionamiento
 
+El dispositivo incorpora sensores de electromiografía (EMG) situados en los músculos del pulgar abductor largo, flexor corto y flexor largo. Estos sensores envían señales Bluetooh para ser interpretadas por un microprocesador ubicado en la mano derecha. Este último componente, a su vez, controlará los movimientos de la prótesis del pulgar derecho mediante servomotores, mismos que responden al movimiento del pulgar izquierdo. Todo el sistema está integrado a un guante flexible y agradable al tacto.
+
 ### Título del proyecto: 
 Dibujado por: Dhiago Gustavo Llanos Florian
 
