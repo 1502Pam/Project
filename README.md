@@ -251,7 +251,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 | 8 |Posibilidad de automatización|3|**3**|3|
 | 9 |Gasto energético|1|**3**|4|
 | 10 |Costo de tecnología|1|**4**|2|
-|----|Suma total| 22 | **35** | 24 |
+|----|Suma total| 22 | **35** | 25 |
 
 ## Conclusión del CS
 
