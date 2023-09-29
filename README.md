@@ -253,9 +253,6 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 | 10 |Costo de tecnología|1|**4**|2|
 |----|Suma total| 22 | **35** | 25 |
 
-## Conclusión del CS
-
-Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
 
 ## Bocetos
 
@@ -293,8 +290,14 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 
 ## Tabla de valoración
 
-<image src ="Imágenes/tabla_valoracion_2.jpeg">
-<image src ="Imágenes/tabla_valoracion_1.jpeg">
+<image src ="Imágenes/a1.jpg">
+<image src ="Imágenes/a2 (1).jpg">
+
+
+## Conclusión del CS
+
+Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+
 
 ## Docentes del curso
 
