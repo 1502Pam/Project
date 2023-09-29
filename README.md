@@ -291,8 +291,11 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 ## Tabla de valoración
 
 <image src ="Imágenes/a1.jpg">
-<image src ="Imágenes/a2 (1).jpg">
+<image src ="Imágenes/a2_nuevo.jpeg">
 
+## Proyecto óptimo
+
+<image src ="Imágenes/tabla_final.jpg">
 
 ## Conclusión del CS
 
