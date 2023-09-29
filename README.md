@@ -225,7 +225,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 ## Caja negra
 
-<image src ="Imágenes/Caja_negra.jpeg"> 
+<image src ="Imágenes/caja_negra_nueva.jpeg"> 
 
 
 ## Esquema de funciones
