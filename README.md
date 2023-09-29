@@ -235,27 +235,27 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/matriz_actualizada_nuevo.jpg">
+<image src ="Imágenes/matriz_ahora_si.jpg">
 
 ## Tabla de valoración
 
 | N° | Criterios | CS1 | CS2 | CS3 |
 |-----------|------------|-----------|-----------|-----------|
-| 1 |Funcionalidad|**3**|3|3|
-| 2 |Nivel de Innovacion|**3**|2|4|
-| 3 |Seguridad|**2**|3|2|
-| 4 |Disponibilidad de repuestos|**4**|4|1|
-| 5 |Durabilidad|**4**|2|3|
-| 6 |Ligereza|**2**|3|2|
-| 7 |Portabilidad|**3**|2|2|
-| 8 |Posibilidad de automatización|**3**|3|3|
-| 9 |Costo de operación|**3**|3|2|
-| 10 |Costo de tecnología|**2**|2|2|
-|----|Suma total| **29** | 27 | 24 |
+| 1 |Funcionalidad|3|**4**|3|
+| 2 |Nivel de Innovacion|3|**4**|2|
+| 3 |Seguridad|2|**3**|2|
+| 4 |Disponibilidad de repuestos|3|**4**|2|
+| 5 |Durabilidad|3|**3**|2|
+| 6 |Ligereza|2|**3**|2|
+| 7 |Portabilidad|1|**4**|3|
+| 8 |Posibilidad de automatización|3|**3**|3|
+| 9 |Gasto energético|1|**3**|4|
+| 10 |Costo de tecnología|1|**4**|2|
+|----|Suma total| 22 | **35** | 25 |
 
 ## Conclusión del CS
 
-Se ha optado por la primera propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
 
 ## Bocetos
 
@@ -283,6 +283,8 @@ Lista de despiece
 <image src ="Imágenes/despiece_2.jpeg">
 
 Descripción del funcionamiento
+
+El dispositivo incorpora sensores de electromiografía (EMG) situados en los músculos del pulgar abductor largo, flexor corto y flexor largo. Estos sensores envían señales Bluetooh para ser interpretadas por un microprocesador ubicado en la mano derecha. Este último componente, a su vez, controlará los movimientos de la prótesis del pulgar derecho mediante servomotores, mismos que responden al movimiento del pulgar izquierdo. Todo el sistema está integrado a un guante flexible y agradable al tacto.
 
 ### Título del proyecto: 
 Dibujado por: Dhiago Gustavo Llanos Florian
