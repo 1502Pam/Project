@@ -4,10 +4,10 @@
 
 ## Modelado 3D de los componentes por separado
 
-*Link a OneShape: 
+* Link a OneShape: 
 https://cad.onshape.com/documents/3dd639875da624873c76d255/w/840f5bff105d4cd6ea5c74b6/e/bcf3e5e2e9629e0099b93e7d?renderMode=0&uiState=653291f129cddf52f7e89eed
 
-*Link a SketchFab:
+* Link a SketchFab:
 https://sketchfab.com/TuMother777
 
 ### Pulgar protésico
