@@ -219,7 +219,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 
 ## Propuesta de solución
-Pulgar mioeléctrico protésico, apoyado con un músculo neumático, diseñado para restaurar el agarre de fuerza y el movimiento parcial de este miembro.
+Pulgar mioeléctrico protésico, apoyado por un músculo neumático, diseñado para restaurar el agarre de fuerza y el movimiento parcial de este miembro.
 
 ## Caja negra
 
