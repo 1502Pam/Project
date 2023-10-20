@@ -10,7 +10,7 @@
 
 ## Matriz morfológica 
 
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/matriz_morfologica.jpg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/matriz_actualizada.jpg">
 
 ## Tabla de valoración
 
