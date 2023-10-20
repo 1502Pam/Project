@@ -233,7 +233,7 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/matriz_ahora_si.jpg">
+<image src ="Imágenes/matriz_morfologica.jpg">
 
 ## Tabla de valoración
 
