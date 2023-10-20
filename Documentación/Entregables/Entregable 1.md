@@ -145,7 +145,7 @@ El material seleccionado para la construcción es el PLA debido a su ligereza y 
 En relación al microcontrolador, se utiliza para gestionar las acciones y la presión aplicada por el actuador. En el caso de los actuadores neumáticos, se emplea el sistema Pneunet, controlado mediante microhidráulica. Este mecanismo de inyección de fluido es accionado por un motor que empuja el pistón, suministrando así el fluido necesario para activar el actuador y lograr el agarre. Una vez finalizada la acción, el pistón regresa a su posición de equilibrio, lo que devuelve el fluido al actuador Pneunet. Los autores han optado por la hidráulica debido a la complejidad de tratar con la compresión del aire, asegurando así que el sistema pueda determinar la cantidad de fuerza a aplicar sin dañar el objeto.
 El mecanismo se considera "sencillo" debido a que la mano no cuenta con un mecanismo de sensibilidad comparable a la piel humana. En cambio, los ojos asumen esta función, detectando el material a manipular. El cerebro genera señales que se transmiten a los músculos de la mano, donde son detectadas por sensores musculares, activando el mecanismo previamente mencionado.
 
-<image src =" https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R3.jpg"> 
+<image src ="https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R3.jpg"> 
 
 ## Bibliografía 
 1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
