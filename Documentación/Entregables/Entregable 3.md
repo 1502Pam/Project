@@ -52,7 +52,7 @@ Dibujado por: Brayam Joe Lazares Salcedo
 
 Lista de despiece
 
-<image src ="Imágenes/despiece_2.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Despiece2.jpg">
 
 Descripción del funcionamiento
 
