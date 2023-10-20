@@ -4,7 +4,7 @@
 
 Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los periodos 1990 y 2019.
 
-<image src=" https://github.com/1502Pam/Project/blob/d31ccc920791822245b547e8fefd29d972b32ade/Im%C3%A1genes/B1.png">
+<image src="https://github.com/1502Pam/Project/blob/d31ccc920791822245b547e8fefd29d972b32ade/Im%C3%A1genes/B1.png">
    
 ###### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD
 
@@ -16,19 +16,19 @@ Inclusive los números han ido en crecimiento; por ende, se estima que, para est
 
 El tipo de amputación más común es en dedos, con una prevalencia que supera los 300 millones casos y que representa el 69.71% de las amputaciones totales, según los datos otorgados por el GBD. Además, la gráfica hace una clara diferencia entre los dedos y el pulgar, esto puede deberse a una mayor importancia del pulgar sobre los demás dedos.
 
-<image src ="Imágenes/B3.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B3.png"> 
 
 ###### Figura 3: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones en el pulgar a nivel global. Obtenido del GBD
 
 En cuanto a la estadística de amputaciones del pulgar, el 21.8% de amputaciones totales de dedos son de pulgares. Además, la incidencia de este tipo de amputación, en el año 2019, fue superior a un millón a nivel global.
 
-<image src ="Imágenes/B4.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B4.png"> 
 
 ###### Figura 4: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones del pulgar en Latinoamérica. Obtenido del GBD
 
 A nivel de Latinoamérica, se tiene una prevalencia superior a los 9 millones y una incidencia, en 2019, de 128000 personas con amputaciones del pulgar. A partir de la gráfica, se aprecia que la zona andina de países como Perú, Bolivia y Ecuador tiene la menor estadística; no obstante, el tamaño de población de cada una es inferior respecto al resto de regiones latinoamericanas.
 
-<image src ="Imágenes/B5.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B5.png"> 
 
 ###### Figura 5: Prevalencia de amputaciones del pulgar a nivel global en el período 1990-2019. Obtenido del GBD.
    
