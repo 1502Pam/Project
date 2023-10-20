@@ -4,7 +4,7 @@
 
 Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los periodos 1990 y 2019.
 
-<image src="[Imágenes/B1.png](https://github.com/1502Pam/Project/blob/d31ccc920791822245b547e8fefd29d972b32ade/Im%C3%A1genes/B1.png)"> 
+<image src="https://github.com/1502Pam/Project/blob/d31ccc920791822245b547e8fefd29d972b32ade/Im%C3%A1genes/B1.png"> 
    
 ###### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD
 
