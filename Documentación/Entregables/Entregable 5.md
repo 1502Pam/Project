@@ -1,4 +1,4 @@
-## Esquema Electrónico del concepto de solución
+<h1> Esquema Electrónico del concepto de solución </h1> 
 
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electr%C3%B3nico.jpeg">
 
