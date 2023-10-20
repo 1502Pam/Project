@@ -1,16 +1,16 @@
 ## Caja negra
 
-<image src ="Imágenes/caja_negra_nueva.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/caja_negra.jpeg"> 
 
 
 ## Esquema de funciones
 
-<image src ="Imágenes/esquema_nuevoo.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/esquema_funciones.jpeg"> 
 
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/matriz_ahora_si.jpg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/matriz_morfologica.jpg">
 
 ## Tabla de valoración
 
@@ -39,7 +39,7 @@ Dibujado por: Pamela Nicole Vilchez Cotrina
 <image src ="https://github.com/1502Pam/Project/blob/d548697ae5ded7039d95619e3da58f1ed4b2ea82/Im%C3%A1genes/boceto_1.1.png">
 
 Lista de despiece
-
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Despiece_1.1.png">
 
 
 Descripción del funcionamiento
@@ -66,12 +66,12 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 
 ## Tabla de valoración
 
-<image src ="Imágenes/a1.jpg">
-<image src ="Imágenes/a2_nuevo.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/evaluaci%C3%B3n_t%C3%A9cnica.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/evaluaci%C3%B3n_econ%C3%B3mica.jpeg">
 
 ## Proyecto óptimo
 
-<image src ="Imágenes/https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/grafica_proyecto_optimo.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/grafica_proyecto_optimo.jpeg">
 
 ## Conclusión del CS
 
