@@ -35,15 +35,16 @@
 
 Dibujado por: Pamela Nicole Vilchez Cotrina
 
-<image src ="Imágenes/boceto1.png">
+<image src ="boceto_1.png">
+<image src ="boceto_1.1.png">
 
 Lista de despiece
 
-<image src ="Imágenes/despiece_1_Actualizazo.jpeg">
+
 
 Descripción del funcionamiento
 
-La prótesis del dedo pulgar recibe la señal proveniente del dedo pulgar de la otra mano, la cual es captada por el sensor EMG, y es procesada por el arduino nano 33 iot que presenta un microprocesador, el cual transmite la señal obtenida vía bluetooth. Dicho microprocesador está siendo alimentado por una fuente de energía provista por una batería. Esta señal transmitida es recibida por el servomotor, el cual se encarga de activar el funcionamiento de la prótesis mediante el hilo tensor de nylon. Para proteger los componentes electrónicos y mecánicos del sistema, se ha aplicado una cubierta impermeable de nylon sobre ellos. Este revestimiento de nylon garantiza la integridad y el funcionamiento de los componentes en diversas condiciones ambientales.
+La prótesis del dedo pulgar recibe la señal captada por el sensor EMG, y es procesada por el arduino nano every el cual es alimentada por baterías de 9V. Además, la prótesis presenta una bomba peristáltica el cual impulsa su movimiento a través del músculo neumático por un tubo de aire. Para proteger los componentes electrónicos y mecánicos del sistema, se ha aplicado una cubierta de resina flexible.
 
 ### Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 2
 Dibujado por: Brayam Joe Lazares Salcedo
