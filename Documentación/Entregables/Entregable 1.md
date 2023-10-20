@@ -128,7 +128,7 @@ Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza
 Se llevó a cabo una investigación de diferentes tipos de prototipos de prótesis de mano, en la que se evaluaron los elementos utilizados para su respectivo funcionamiento, la metodología empleada para un mejor control y el costo de fabricación. El prototipo ganador fue desarrollado por Krausz et al. Su diseño se basa en una mano de seis grados de libertad y es de código abierto. A partir de este prototipo, se buscó optimizarlo mediante cambios en los dispositivos de transmisión de potencia y actuación con el fin de reducir costos y mejorar la funcionalidad.
 El procesamiento de los datos EMG se obtendrá a través de un hardware portátil basado en la arquitectura maestro-esclavo. Como dispositivo maestro, se utilizará un sistema basado en Raspberry Pi interconectado con el brazalete EMG, que recopilará y clasificará el movimiento. Como dispositivo esclavo, se empleará un microcontrolador ATmega328 que definirá los movimientos recopilados y procesados por el dispositivo maestro.
 
-<image src ="https://github.com/1502Pam/Project/blob/08432fd2a65222dd85cc5806a7b81b5d97d430d2/Im%C3%A1genes/tercer_pulgar.jpg"> 
+<image src ="https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R1.jpg"> 
 
 2. Construcción de músculos neumáticos<sup>[15](https://www.sciencedirect.com/science/article/abs/pii/S0957415816301532)</sup>.
 
@@ -136,7 +136,7 @@ Se presenta una metodología para la construcción de músculos neumáticos. Par
 Para controlar el movimiento de cada articulación, se obtuvieron las ecuaciones cinemáticas directas e inversas, las cuales se ajustaron a controladores tipo PID. Para medir la posición angular de cada articulación, se emplearon sensores de efecto Hall.
 El uso de músculos neumáticos se presenta como una alternativa a los actuadores convencionales, como solenoides o motores (tales como motores de corriente continua y servomotores, entre otros). Los músculos neumáticos requieren presiones de aire del orden de 3 a 6 bares para generar fuerzas que van desde 30 hasta incluso 1000N. Un músculo neumático es un actuador de tracción, ya que se contrae y expande de manera similar a un músculo biológico. Este músculo está compuesto por un material elástico homogéneo recubierto por fibras retorcidas, creando una estructura similar a una red. La presión de aire se aplica como entrada para lograr su funcionamiento.
 
-<image src ="https://github.com/1502Pam/Project/blob/08432fd2a65222dd85cc5806a7b81b5d97d430d2/Im%C3%A1genes/B4.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R2.jpg"> 
 
 3.Diseño de prótesis para discapacitados por conflictos bélicos<sup>[16](https://pubmed.ncbi.nlm.nih.gov/29196160/)</sup>.
    
@@ -145,7 +145,7 @@ El material seleccionado para la construcción es el PLA debido a su ligereza y 
 En relación al microcontrolador, se utiliza para gestionar las acciones y la presión aplicada por el actuador. En el caso de los actuadores neumáticos, se emplea el sistema Pneunet, controlado mediante microhidráulica. Este mecanismo de inyección de fluido es accionado por un motor que empuja el pistón, suministrando así el fluido necesario para activar el actuador y lograr el agarre. Una vez finalizada la acción, el pistón regresa a su posición de equilibrio, lo que devuelve el fluido al actuador Pneunet. Los autores han optado por la hidráulica debido a la complejidad de tratar con la compresión del aire, asegurando así que el sistema pueda determinar la cantidad de fuerza a aplicar sin dañar el objeto.
 El mecanismo se considera "sencillo" debido a que la mano no cuenta con un mecanismo de sensibilidad comparable a la piel humana. En cambio, los ojos asumen esta función, detectando el material a manipular. El cerebro genera señales que se transmiten a los músculos de la mano, donde son detectadas por sensores musculares, activando el mecanismo previamente mencionado.
 
-<image src ="https://github.com/1502Pam/Project/blob/08432fd2a65222dd85cc5806a7b81b5d97d430d2/Im%C3%A1genes/2B.png"> 
+<image src =" https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R3.jpg"> 
 
 ## Bibliografía 
 1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
