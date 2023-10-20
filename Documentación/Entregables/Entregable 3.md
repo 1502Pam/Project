@@ -36,7 +36,7 @@
 Dibujado por: Pamela Nicole Vilchez Cotrina
 
 <image src ="boceto_1.png">
-<image src ="boceto_1.1.png">
+<image src ="https://github.com/1502Pam/Project/blob/d548697ae5ded7039d95619e3da58f1ed4b2ea82/Im%C3%A1genes/boceto_1.1.png">
 
 Lista de despiece
 
