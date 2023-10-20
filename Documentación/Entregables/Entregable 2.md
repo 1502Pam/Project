@@ -5,19 +5,19 @@ Se llevó a cabo una investigación orientada a determinar la viabilidad de alca
 Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
 Los resultados revelaron notables avances en términos del control motor del tercer pulgar. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica.
 
-<image src ="Imágenes/tercer_pulgar.jpg"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/tercer_pulgar.jpg"> 
 
 2. Three-dimensional printed prosthesis demonstrates functional improvement in a patient with an amputated thumb: A technical note<sup>[15](https://journals.sagepub.com/doi/epub/10.1177/0309364616679315)</sup>.
 
 Se creó una prótesis personalizada a un hombre de 67 años con una amputación del pulgar derecho por encima de la articulación metacarpofalángica. Para la prótesis se escanearon las manos del usuario y se procedió a imprimir en 3D la prótesis del pulgar derecho con un elastómero termoplástico flexible, todo en un lapso de 48 horas y a un costo de $50. Posteriormente, se evaluó el producto mediante el Test de Función de la Mano Jebsen-Taylor y el Test de Bloques y Cajas. Los resultados de satisfacción del usuario fueron “muy satisfechos” y se reportó gran facilidad para actividades cotidianas al emplear la prótesis.
 
-<image src ="Imágenes/4B.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/4B.png"> 
 
 3. Evaluación funcional cuantitativa de una prótesis impresa en 3D con silicona incrustada para la amputación parcial de la mano: un informe de caso<sup>[16](https://pubmed.ncbi.nlm.nih.gov/29196160/)</sup>.
    
 El estudió se centró en un usuario masculino con una amputación parcial de la mano no dominante. A modo de solución, se diseñaron dos prótesis en cuyo proceso de diseño fue crucial la retroalimentación del usuario para crear un producto que ayude al usuario en sus actividades laborales. Estas prótesis personalizadas e impresas en 3D con silicona incrustada fueron evaluadas utilizando el Test de Función de la Mano Jebsen; mediante el cual se observó que, un diseño de prótesis más simple (prótesis 2) fue más útil y robusto que uno sofisticado (prótesis 1). Por otro lado, el estudio destaca el potencial de las prótesis impresas en 3D e importancia de la personalización para mejorar la calidad de vida de personas con amputaciones parciales de la mano.
 
-<image src ="Imágenes/2B.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/2B.png"> 
 
 
 ## Estado del arte comercial
