@@ -60,8 +60,10 @@ El dispositivo incorpora un sensor de electromiografía (EMG) situados en el mú
 
 ### Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 3
 
-<image src ="Imágenes/boceto_3.jpg">
-<image src ="Imágenes/tabla_3.jpg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/boceto3.jpg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/boceto3.1.jpg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/despiece3.jpg">
+
 
 ## Tabla de valoración
 
