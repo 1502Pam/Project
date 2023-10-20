@@ -297,7 +297,11 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 
 ## Conclusión del CS
 
-Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+Se ha optado por la primera propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+
+## Modelado 3D
+
+## Diseño Esquemático y Simulación Electrónica
 
 ## Docentes del curso
 
