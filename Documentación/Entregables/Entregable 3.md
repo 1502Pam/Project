@@ -29,8 +29,3 @@
 |----|Suma total| 22 | **35** | 25 |
 
 
-### Soporte de antebrazo
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/soporte_de_antebrazo.jpeg">
-
-### Soporte de pulgar
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/soporte_pulgar.jpeg">
