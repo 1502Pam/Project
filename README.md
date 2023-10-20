@@ -79,7 +79,7 @@ En el Perú, existe una prevalencia de 400 mil personas con amputaciones de dedo
 |  | Mano (excepción de los dedos solos) | 139 | Abril 2023 |
 | Naturaleza de la lesión | Amputación | 13 | Abril 2023 |
 | Agente causante | Instalaciones eléctricas, incluidos los motores eléctricos pero con exclusión de las herramientas eléctricas manuales | 1 | Abril 2023 |
-###### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración propia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo
+###### Tabla 1: Tabla de accidentes de trabajo del mes de abril y marzo 2023. Elaboración ia en base a datos obtenidos del Ministerio de Trabajo y Promoción del Empleo
 
 En el mes indicado, 411 personas sufrieron de amputaciones de dedos; es decir, en aproximadamente 137 casos, el pulgar fue amputado. Este dato es muy significante, puesto que la amputación del pulgar resulta en una pérdida del 40% de las funciones de la mano y en un 22% de la función total de la persona<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013), [5](https://journals.sagepub.com/doi/abs/10.1177/1558944721999734)</sup>.
 
@@ -95,7 +95,7 @@ Perder una parte del cuerpo desencadena una serie de consecuencias funcionales p
 | Dolor en el miembro residual  | Percepción dolorosa en el segmento no amputado |
 | Sensación fantasma | Percepción no dolorosa del segmento amputado |
 | Dolor del miembro fantasma | Percepción dolorosa en el segmento amputado |
-###### Tabla 2: Clasificación de la sensación de dolor en el síndrome del miembro fantasma. Elaboración propia en base a los datos de la investigación de Kaur A. & Guan Y.
+###### Tabla 2: Clasificación de la sensación de dolor en el síndrome del miembro fantasma. Elaboración ia en base a los datos de la investigación de Kaur A. & Guan Y.
 
 Por otro lado, existen factores fundamentales que determinan la sensación de dolor:
 
@@ -104,7 +104,7 @@ Por otro lado, existen factores fundamentales que determinan la sensación de do
 | Factores periféricos  | Actividad de los nervios residuales | Se presenta degeneración retrógrada y acortamiento de las neuronas aferentes, las cuales generan neuromas que incrementan la sensibilización a los estímulos |
 | Factores centrales | Plasticidad espinal | Posterior a la lesión de un nervio periférico, las neuronas del cuerno posterior de la médula espinal muestran sensibilización central; es decir, estímulos nociceptivos de corta duración generan potenciales postsinápticos aumentados durante un largo período de tiempo.|
 | | Reorganización cortical | Las áreas neuronales adyacentes de la zona cortical que representaba el miembro amputado, presenta cambios de neuroplasticidad sobre la corteza motora primaria (M1) y somatosensorial primaria (S1). | 
-###### Tabla 3: Factores de riesgo de dolor de miembro fantasma. Elaboración propia en base a la información de Kaur A. & Guang Y.
+###### Tabla 3: Factores de riesgo de dolor de miembro fantasma. Elaboración ia en base a la información de Kaur A. & Guang Y.
 
 Por tales factores, el miembro fantasma depende de muchos cambios neurológicos causados por un cambio drástico en la anatomía del miembro amputado. En el caso del pulgar, estos cambios podrían variar o ser más complejos debido al rol del pulgar en la anatomía y fisiología de la mano.
 
@@ -130,7 +130,7 @@ Los agarres de fuerza crean patrones motores y señales nerviosas que originan e
 
 ### C) Alternativas de solución actuales ante la amputación de un miembro
 
-En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. Además, la fuerza desproporcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. 
+En la actualidad, la mejor forma de adaptarse a realizar las mismas actividades de trabajo tras una amputación es a través del uso de una prótesis, puesto que está asociada con la disminución en la sensación del miembro fantasma y dolor en el miembro residual<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. Además, la fuerza desorcionada en los miembros residuales se trabaja con rutinas de terapia, con el fin de enseñar al usuario a mantener las articulaciones en la posición adecuada<sup>[4](https://doi.org/10.1016/j.hcl.2020.09.013)</sup>. 
 
 Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una prótesis con el muñón<sup>[12](https://www.msdmanuals.com/es-pe/professional/temas-especiales/miembro-prot%C3%A9sico/opciones-para-las-pr%C3%B3tesis-de-los-miembros)</sup>. : al vacío, correas, succión e interfaz con traba. Dependiendo del tipo de movimiento y situación del usuario, se suelen fusionar con almohadillas de gel y medias protésicas. No obstante, este posicionamiento también puede depender del tipo de prótesis y sus diferentes funcionalidades<sup>[13](https://pubmed.ncbi.nlm.nih.gov/34043536/), [14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf)</sup>.
 
@@ -140,9 +140,9 @@ Para ello, existen 4 técnicas que permiten el ajuste del posicionamiento de una
 | Prótesis impulsadas por el cuerpo (Body-Powered) | <p> - Aprovechan la anatomía restante de la amputación. <p> - Independientes de baterías externas o electricidad. <p> - Sincrónico con movimientos naturales de la mano. <p> - Limitaciones cosméticas (alto grado de mantenimiento y peso excesivo) | 80-85% |
 | Prótesis impulsadas externamente (Externally-Powered) | <p> - Ideales para amputaciones trans-metacarpianas. <p> - Destacan las mioeléctricas (MYO) que registran señales de electromiografía de superficie. <p> - Logra posturas de agarre de forma independiente y sincronizada. | 75% |
 | Prótesis para actividades específicas | <p> - Destinadas a varios tipos de amputaciones. <p> - Limitación a una única función a suplir. <p> - Preferido como herramienta de asistencia en lugar de reemplazo del bro amputado | |
-###### Tabla 4: Tipos de prótesis y tasa de abandono. Elaboración propia a partir de datos los documentos [13](https://pubmed.ncbi.nlm.nih.gov/34043536/) y [14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf).
+###### Tabla 4: Tipos de prótesis y tasa de abandono. Elaboración ia a partir de datos los documentos [13](https://pubmed.ncbi.nlm.nih.gov/34043536/) y [14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf).
 
-Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos usuarios amputados. Pese a ello, la manufactura aditiva es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de proporcionar una alta relación resistencia-peso a través de un relleno configurable<sup>[14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf)</sup>.
+Sin embargo, la principal razón para el abandono de estos cuatro tipos de prótesis es el precio, el cual puede llegar a ser entre 5000 a 12000 dólares; por consiguiente, siendo poco asequible para muchos usuarios amputados. Pese a ello, la manufactura aditiva es el último avance en el campo del diseño protésico, pues es capaz de fabricar prótesis de bajo costo y menor peso. La característica principal de esta es su tecnología de fabricación aditiva, donde los productos son construidos agregando capa por capa en una placa de construcción para producir el producto final; otorgando como principal ventaja la capacidad de orcionar una alta relación resistencia-peso a través de un relleno configurable<sup>[14](https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf)</sup>.
 
 
 ## Clínica de problemáticas en salud
@@ -158,12 +158,11 @@ Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes
 
 Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza.
 
-
 ## Estado del arte científico
 1. El tercer pulgar<sup>[13](https://pubmed.ncbi.nlm.nih.gov/34043536/)</sup>.
 
 Se llevó a cabo una investigación orientada a determinar la viabilidad de alcanzar una mejora motora exitosa mediante la adición de un pulgar robótico suplementario, y a su vez, explorar las implicaciones que ello conlleva tanto en la representación neuronal como en la funcionalidad de la mano biológica. 
-Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, con el propósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
+Para ello, los voluntarios fueron sometidos a un entrenamiento específico para operar un pulgar robótico adicional, denominado "Tercer Pulgar", durante un período de cinco días. Se abordaron situaciones cotidianas no estructuradas y  entornos de laboratorio, con el ósito de indagar en la representación de la mano amplificada antes y después del período de entrenamiento. 
 Los resultados revelaron notables avances en términos del control motor del tercer pulgar. Sin embargo, es importante destacar que el empleo del tercer pulgar generó una reducción en las sinergias cinemáticas naturales presentes en la mano biológica.
 
 <image src ="Imágenes/tercer_pulgar.jpg"> 
@@ -212,7 +211,7 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 ### No Funcionales
 - Ergonómico
-- Tamaño proporcional al paciente
+- Tamaño orcional al paciente
 - Ligero
 - Accesible
 - Poseer la fricción necesaria para evitar el deslizamiento de objetos.
@@ -220,38 +219,37 @@ El estudió se centró en un usuario masculino con una amputación parcial de la
 
 
 ## Propuesta de solución
-Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
-
+Pulgar mioeléctrico protésico, apoyado por un músculo neumático, diseñado para restaurar el agarre de fuerza y el movimiento parcial de este miembro.
 
 ## Caja negra
 
-<image src ="Imágenes/caja_negra_nueva.jpeg"> 
+<image src ="Imágenes/caja_negra.jpeg"> 
 
 
 ## Esquema de funciones
 
-<image src ="Imágenes/esquema_nuevoo.jpeg"> 
+<image src ="Imágenes/esquema_de_funciones.jpeg"> 
 
 
 ## Matriz morfológica 
 
-<image src ="Imágenes/matriz_ahora_si.jpg">
+<image src ="Imágenes/matriz_morfologica.jpg">
 
 ## Tabla de valoración
 
 | N° | Criterios | CS1 | CS2 | CS3 |
 |-----------|------------|-----------|-----------|-----------|
-| 1 |Funcionalidad|3|**4**|3|
-| 2 |Nivel de Innovacion|3|**4**|2|
-| 3 |Seguridad|2|**3**|2|
-| 4 |Disponibilidad de repuestos|3|**4**|2|
-| 5 |Durabilidad|3|**3**|2|
-| 6 |Ligereza|2|**3**|2|
-| 7 |Portabilidad|1|**4**|3|
-| 8 |Posibilidad de automatización|3|**3**|3|
-| 9 |Gasto energético|1|**3**|4|
-| 10 |Costo de tecnología|1|**4**|2|
-|----|Suma total| 22 | **35** | 25 |
+| 1 |Funcionalidad|**3**|2|3|
+| 2 |Nivel de Innovacion|**4**|2|3|
+| 3 |Seguridad|**3**|3|2|
+| 4 |Disponibilidad de repuestos|**3**|3|2|
+| 5 |Durabilidad|**4**|2|3|
+| 6 |Ligereza|**3**|3|1|
+| 7 |Portabilidad|**4**|3|2|
+| 8 |Posibilidad de automatización|**4**|3|2|
+| 9 |Gasto energético|**4**|2|2|
+| 10 |Costo de tecnología|**3**|2|2|
+|----|Suma total| **35** | 25 | 25 |
 
 
 ## Bocetos
@@ -288,16 +286,22 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 <image src ="Imágenes/boceto_3.jpg">
 <image src ="Imágenes/tabla_3.jpg">
 
-## Tabla de valoración
+## Tablas de valoración
 
-<image src ="Imágenes/a1.jpg">
-<image src ="Imágenes/a2 (1).jpg">
+<image src ="Imágenes/evaluacion_tecnica.jpg">
+<image src ="Imágenes/evaluacion_economica.jpg">
 
+## Proyecto óptimo
+
+<image src ="Imágenes/grafica_proyecto_optimo.jpeg">
 
 ## Conclusión del CS
 
-Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+Se ha optado por la primera propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
 
+## Modelado 3D
+
+## Diseño Esquemático y Simulación Electrónica
 
 ## Docentes del curso
 
