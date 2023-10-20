@@ -57,7 +57,7 @@ Lista de despiece
 
 Descripción del funcionamiento
 
-El dispositivo incorpora sensores de electromiografía (EMG) situados en los músculos del pulgar abductor largo, flexor corto y flexor largo. Estos sensores envían señales Bluetooh para ser interpretadas por un microprocesador ubicado en la mano derecha. Este último componente, a su vez, controlará los movimientos de la prótesis del pulgar derecho mediante servomotores, mismos que responden al movimiento del pulgar izquierdo. Todo el sistema está integrado a un guante flexible y agradable al tacto.
+El dispositivo incorpora un sensor de electromiografía (EMG) situados en el músculo del pulgar flexor corto. Estos sensores envían señales hacia el nano Arduino para ser procesados. Este último componente, a su vez, controlará los movimientos de la prótesis del pulgar derecho mediante la comprensión de un músculo neumático, cuyo suministro es una bomba peristáltica. Todo el sistema está integrado en un guante flexible y agradable al tacto cuyo funcionamiento depende de baterías de litio recargables directamente
 
 ### Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 3
 
@@ -76,3 +76,8 @@ El dispositivo incorpora sensores de electromiografía (EMG) situados en los mú
 ## Conclusión del CS
 
 Se ha optado por la segunda propuesta conceptual como la solución más apropiada. Esta elección se fundamenta en la accesibilidad de ciertos componentes, tales como las baterías, el cargador y/o el sensor, que son de dimensiones reducidas y pueden integrarse de manera eficiente en una prótesis diseñada para el pulgar o su entorno. En resumen, al aprovechar las ventajas de estos componentes en términos de tamaño y disponibilidad, esperamos lograr mejoras significativas en cuanto al tipo de agarre y la fuerza que la mano protésica pueda ejercer.
+
+## Esquema Electrónico del concepto de solución
+
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electr%C3%B3nico.jpeg">
+
