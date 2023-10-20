@@ -239,17 +239,17 @@ Pulgar mioeléctrico protésico diseñado para restaurar el agarre de fuerza.
 
 | N° | Criterios | CS1 | CS2 | CS3 |
 |-----------|------------|-----------|-----------|-----------|
-| 1 |Funcionalidad|3|**4**|3|
-| 2 |Nivel de Innovacion|3|**4**|2|
-| 3 |Seguridad|2|**3**|2|
-| 4 |Disponibilidad de repuestos|3|**4**|2|
-| 5 |Durabilidad|3|**3**|2|
-| 6 |Ligereza|2|**3**|2|
-| 7 |Portabilidad|1|**4**|3|
-| 8 |Posibilidad de automatización|3|**3**|3|
-| 9 |Gasto energético|1|**3**|4|
-| 10 |Costo de tecnología|1|**4**|2|
-|----|Suma total| 22 | **35** | 25 |
+| 1 |Funcionalidad|**3**|2|3|
+| 2 |Nivel de Innovacion|**4**|2|3|
+| 3 |Seguridad|**3**|3|2|
+| 4 |Disponibilidad de repuestos|**3**|3|2|
+| 5 |Durabilidad|**4**|2|3|
+| 6 |Ligereza|**3**|3|1|
+| 7 |Portabilidad|**4**|3|2|
+| 8 |Posibilidad de automatización|**4**|3|2|
+| 9 |Gasto energético|**4**|2|2|
+| 10 |Costo de tecnología|**3**|2|2|
+|----|Suma total| **35** | 25 | 25 |
 
 
 ## Bocetos
