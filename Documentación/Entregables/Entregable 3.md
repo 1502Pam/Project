@@ -41,7 +41,6 @@ Dibujado por: Pamela Nicole Vilchez Cotrina
 Lista de despiece
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Despiece_1.1.png">
 
-
 Descripción del funcionamiento
 
 La prótesis del dedo pulgar recibe la señal captada por el sensor EMG, y es procesada por el arduino nano every el cual es alimentada por baterías de 9V. Además, la prótesis presenta una bomba peristáltica el cual impulsa su movimiento a través del músculo neumático por un tubo de aire. Para proteger los componentes electrónicos y mecánicos del sistema, se ha aplicado una cubierta de resina flexible.
@@ -49,7 +48,7 @@ La prótesis del dedo pulgar recibe la señal captada por el sensor EMG, y es pr
 ### Título del proyecto: Prótesis del dedo pulgar, boceto preliminar 2
 Dibujado por: Brayam Joe Lazares Salcedo
 
-<image src ="Imágenes/boceto_2.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/boceto_2.jpg">
 
 Lista de despiece
 
