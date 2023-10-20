@@ -8,7 +8,7 @@ Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-
    
 ###### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD
 
-Inclusive los números han ido en crecimiento; por ende, se estima que, para este año 2023, la cifra habrá sobrepasado los 500 millones de personas mayores a 25 años con algún tipo de amputación. Imágenes/B2.png
+Inclusive los números han ido en crecimiento; por ende, se estima que, para este año 2023, la cifra habrá sobrepasado los 500 millones de personas mayores a 25 años con algún tipo de amputación. 
 
 <image src="https://github.com/1502Pam/Project/blob/72bcae9e0f8e07edd3f8520bd30eeca5f30ef2ca/Im%C3%A1genes/B2.png">
    
