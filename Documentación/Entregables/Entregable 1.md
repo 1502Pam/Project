@@ -1,70 +1,34 @@
-# Equipo 12
-
-#### Bienvenidos al repositorio del Equipo 12 del curso Fundamentos de Biodiseño
-
-<image src ="Imágenes/foto_grupal_2.jpg"> 
-
-
-## Tabla de contenido
-
-- [Roles de los integrantes del proyecto](#Roles-de-los-integrantes-del-proyecto).
-- [Análisis del caso clínico](#Análisis-del-caso-clínico).
-- [Clínica de problemáticas en salud](#Clínica-de-problemáticas-en-salud).
-- [Problemática](#Problemática).
-- [Estado del arte científico](#Estado-del-arte-científico).
-- [Estado del arte comercial](#Estado-del-arte-comercial).
-- [Lista de requerimientos](#Lista-de-requerimientos).
-- [Propuesta de solución](#Propuesta-de-solución).
-- [Caja negra](#Caja-negra).
-- [Esquema de funciones](#Esquema-de-funciones).
-- [Matriz morfológica](#Matriz-morfológica).
-- [Tabla de valoración](#Tabla-de-valoración).
-- [Conclusión-del-CS](#Conclusión-del-CS).
-- [Bocetos](#Bocetos).
-- [Docentes del curso](#Docentes-del-curso).
-- [Bibliografía](#Bibliografía).
-
-
-## Roles de los integrantes del proyecto
-- Chavez Rivas Allen Stirs (Planificador de la electrónica)
-- Lazares Salcedo, Brayam Joe (Planificador de diseño de los planos del prototipo)
-- Llanos Florian Dhiago Gustavo (Coordinador del grupo y planificador de manufactura digital)
-- Medina Burga Yuliana Abigail (Planificador del modelado 3D del prototipado)
-- Sanchez Valverde Mariel Linette (Planificador de programación)
-- Vilchez Cotrina Pamela Nicole (Planificador del repositorio Github)
-
-
 ## Análisis del caso clínico
 
 ### A) Contexto
 
 Según Global Burden of Disease (GBD)<sup>[1](https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24)</sup>, existe una prevalencia mundial de amputaciones cercana a 500 millones de personas entre los periodos 1990 y 2019.
 
-<image src ="Imágenes/B1.png"> 
+<image src="https://github.com/1502Pam/Project/blob/d31ccc920791822245b547e8fefd29d972b32ade/Im%C3%A1genes/B1.png">
    
 ###### Figura 1: Gráfica de prevalencia de amputaciones en personas mayores a 25 años desde 1990 hasta 2019 a nivel global. Obtenido del GBD
 
-Inclusive los números han ido en crecimiento; por ende, se estima que, para este año 2023, la cifra habrá sobrepasado los 500 millones de personas mayores a 25 años con algún tipo de amputación.
+Inclusive los números han ido en crecimiento; por ende, se estima que, para este año 2023, la cifra habrá sobrepasado los 500 millones de personas mayores a 25 años con algún tipo de amputación. 
 
-<image src ="Imágenes/B2.png"> 
+<image src="https://github.com/1502Pam/Project/blob/72bcae9e0f8e07edd3f8520bd30eeca5f30ef2ca/Im%C3%A1genes/B2.png">
    
 ###### Figura 2: Gráfica de prevalencia del tipo de amputaciones en personas mayores a 25 años en el período 1990-2019 a nivel global. Obtenido del GBD
 
 El tipo de amputación más común es en dedos, con una prevalencia que supera los 300 millones casos y que representa el 69.71% de las amputaciones totales, según los datos otorgados por el GBD. Además, la gráfica hace una clara diferencia entre los dedos y el pulgar, esto puede deberse a una mayor importancia del pulgar sobre los demás dedos.
 
-<image src ="Imágenes/B3.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B3.png"> 
 
 ###### Figura 3: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones en el pulgar a nivel global. Obtenido del GBD
 
 En cuanto a la estadística de amputaciones del pulgar, el 21.8% de amputaciones totales de dedos son de pulgares. Además, la incidencia de este tipo de amputación, en el año 2019, fue superior a un millón a nivel global.
 
-<image src ="Imágenes/B4.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B4.png"> 
 
 ###### Figura 4: Gráfica de prevalencia en el período 1990-2019 e incidencia del año 2019 de amputaciones del pulgar en Latinoamérica. Obtenido del GBD
 
 A nivel de Latinoamérica, se tiene una prevalencia superior a los 9 millones y una incidencia, en 2019, de 128000 personas con amputaciones del pulgar. A partir de la gráfica, se aprecia que la zona andina de países como Perú, Bolivia y Ecuador tiene la menor estadística; no obstante, el tamaño de población de cada una es inferior respecto al resto de regiones latinoamericanas.
 
-<image src ="Imágenes/B5.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/a304338d2ad31f3e3c8daa75a3704a1f73c1a3e1/Im%C3%A1genes/B5.png"> 
 
 ###### Figura 5: Prevalencia de amputaciones del pulgar a nivel global en el período 1990-2019. Obtenido del GBD.
    
@@ -112,7 +76,7 @@ Por tales factores, el miembro fantasma depende de muchos cambios neurológicos 
 
 El movimiento de la mano tiene un total de 25 grados de libertad (GDL) y se describe en el campo biomecánico por un conjunto de ángulos de rotación fisiológicos: flexión/extensión (F/E), abducción/aducción (Ab/Ad) y pronación/supinación (P/S)<sup>[7](http://www.xixcnim.uji.es/CDActas/Documentos/ComunicacionesPosters/01-13.pdf)</sup>.
 
-<image src ="Imágenes/1M_n.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/08432fd2a65222dd85cc5806a7b81b5d97d430d2/Im%C3%A1genes/1M_n.jpeg"> 
 
 ###### Figura 6: Movimientos de la mano. Obtenido de la Asociación Española de Ingeniería Mecánica.
 
@@ -123,7 +87,7 @@ Cabe resaltar que la articulación del pulgar funciona básicamente con dos GDL 
 
 Los agarres de fuerza crean patrones motores y señales nerviosas que originan el movimiento que deseamos. De esta manera, cuando la amputación se da en el pulgar, se desencadenan problemas como la hiperestesia<sup>[9](https://www.jhandtherapy.org/article/S0894-1130(22)00003-5/fulltext)</sup> y la pérdida de agarre de fuerza, el cual se clasifica en cilíndrico, esférico, gancho, precisión, palmar y lateral<sup>[10](https://ieeexplore.ieee.org/document/6610858), [11](https://www.oandplibrary.org/al/pdf/1955_02_022.pdf)</sup>.
 
-<image src ="Imágenes/3M_n.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/08432fd2a65222dd85cc5806a7b81b5d97d430d2/Im%C3%A1genes/3M_n.jpeg"> 
 
 ###### Figura 7: Clasificación de los distintos agarres de fuerza. Obtenido de Taylor, C. & Schwarz, R.
 
@@ -153,6 +117,7 @@ Además, existen diversos problemas de los miembros inferiores en la amputación
 
 Por otro lado, en cuanto a los miembros superiores, se distinguen las siguientes dificultades tras la amputación transmetacarpiana y desarticulación interfalángica proximal del dedo medio: dolor palpable a nivel de musculatura interósea y lumbricales, control inadecuado de la presión palmar, movimiento mínimo del músculo oponente del pulgar y fuerza de presión disminuída.
 
+
 ## Problemática
 
 Hay una deficiencia de prótesis de pulgar especializados en el agarre de fuerza en el mercado peruano.
@@ -181,57 +146,6 @@ En relación al microcontrolador, se utiliza para gestionar las acciones y la pr
 El mecanismo se considera "sencillo" debido a que la mano no cuenta con un mecanismo de sensibilidad comparable a la piel humana. En cambio, los ojos asumen esta función, detectando el material a manipular. El cerebro genera señales que se transmiten a los músculos de la mano, donde son detectadas por sensores musculares, activando el mecanismo previamente mencionado.
 
 <image src ="https://github.com/1502Pam/Project/blob/69620e2351e32556382e2b7bd61a9802c00276ee/Im%C3%A1genes/R3.jpg"> 
-   
-## Estado del arte comercial
-
-### A) Equipos o dispositivos existentes en el mercado
-
-|| Dispositivos existentes en el mercado ||
-| ------------- | ------------- |------------- |
-| GripLock Finger<sup>[17](https://www.npdevices.com/wp-content/uploads/2022/01/GripLock-Finger-Solo-Sheet-English-Dec-20-2021-edge-.pdf)</sup> | THUMBDriver<sup>[18](https://www.npdevices.com/wp-content/uploads/2022/01/ThumbDriver-Solo-Sheet-English-Dec-20-2021-edge.pdf)</sup> | PIPDriver<sup>[19](https://www.npdevices.com/wp-content/uploads/2022/01/PIPDriver-Solo-Sheet-English-Dec-20-2021-edge.pdf)</sup> |
-| <image src ="Imágenes/griplock.png"> | <image src ="Imágenes/thumbdriver.png"> | <image src ="Imágenes/PIPdriver.png"> |
-| Dedo protésico para la falange media, de bloqueo pasivo y posicionable, diseñado para ser laminado en un encaje parcial a medida. Está diseñado para soportar con firmeza más de 90.71kg en agarre de gancho. | Diseñado para la falange proximal del pulgar. Al igual que el MCP driver este dispositivo se acciona mediante una articulación MCP (metacarpofalángica), pero especialmente en actividades para el pulgar. Gracias al diseño el dispositivo se adapta a las necesidades del usuario, esto facilita la realización de pellizco y agarre.|Diseñada para extremidades parciales y dedos en la falange media o distal. Su diseño se adapta a las articulaciones PIP (distal interfalángica) y DIP (proximal interfalángica). Acciona mediante una articulación PIP intacta con suficiente residuo para encajar la jaula. Esto hace que la estructura en forma de jaula proteja el residuo(muñón). |
-| Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - aluminio 7075-T6 <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4C | Materiales: <p> - nylon 12 (medical grade) <p> - silicona <p> - stainless 316 <p> - titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4 C <p> Resistencia a la tensión del anillo: <p> - 36.28kg | Materiales: <p> - nylon 12 (grado médico) <p> - silicona <p> - titanio <p> Resistencia al calor: <p> - nylon 175 C <p> - silicona 204.4 C <p> Resistencia al aplastamiento: <p> - mayor a 27.22kg |
-
-
-### B) Patentes de invención y Patentes de modelo de utilidad
-
-|| Invención|| Utilidad |
-| ------------- | ------------- |------------- |---------- |
-| Prótesis mioeléctrica y método<sup>[20](https://patents.google.com/patent/US10376389B2/en?q=(amputation+prothesis+thumb)&oq=amputation+or+prothesis+thumb+)</sup>	| Prótesis de mano multifuncional y autónoma<sup>[21](https://worldwide.espacenet.com/patent/search?q=pn%3DES2571880T3)</sup>	| Una prótesis de mano<sup>[22](https://worldwide.espacenet.com/patent/search?q=pn%3DWO2022132105A1)</sup>	| Prótesis trans de articulación de muñeca y pulgar impresora 3D<sup>[23](https://worldwide.espacenet.com/patent/search?q=pn%3DCN218652141U)</sup> |
-| <image src ="Imágenes/protesis_mioeléctrica.png"> | <image src ="Imágenes/protesis_multifuncional.png"> | <image src ="Imágenes/protesis_mano.png"> | <image src ="Imágenes/protesis_trans.png"> |
-| Gaston y Loeffler -Estados Unidos (2017) | Controzzi, Clemente, Cipriani, Carrozza - España (2016) | HOCAOĞLU ÇETİNSOY – Turkia (2022) | Wei Qipei; Liu Chang; Yang Chen; Chen Shanlin – China (2023) |
-| Es una próstesis de trasferencia de señales con electrodos, describe con exactitud la conexión de cada uno de los nervios que generan el movimiento de los músculos en la mano. Utiliza microprocesadores multicanal, entradas EMG, motores, etc., es el mayor avance para las prótesis mioeléctricas. El ensamblado al paciente es un método quirúrgico. | Prótesis de mano que permite la rotación, abducción y flexión del dedo, a partir de un sistema eléctrico y árbol motor rotativo que están programados para el movimiento restringido, a partir del análisis del movimiento angular. Utilizan el mecanismo rotativo de cruz de malta y una línea de trasmisión del movimiento. | Se utiliza señales electromiografías de superficie y polímeros que tiene memoria elástica y que cambian su rigidez dependiendo de factores externos. Dividen la estructura tres huesos con poleas y calentadores. EL movimiento lo generan motores DC de control, no se utiliza ningún tipo de algoritmo, es de bajo costo, gran adaptabilidad al amputado, lo que reduce el tiempo de rehabilitación. | A otras modelos de prótesis 3D se incluye una bola, tapa y varilla metacarpiana que se conectan por rosca con los otros huesos y la varilla se coloca en una posición alejada mejorando el uso técnico de la prótesis. Utiliza materiales como polietileno, cromo de cobalto, aleación de aluminio biológicamente compatibles. |
-
-
-## Lista de requerimientos
-### Funcionales
-- Realizar y regular el agarre de fuerza necesario para permitir la reinserción laboral.
-- Permitir el movimiento circundal del pulgar.
-- Medir los ángulos de los dedos restantes de la mano para ajustar su movimiento.
-- Almacenar energía en una bateria.
-
-### No Funcionales
-- Ergonómico
-- Tamaño orcional al paciente
-- Ligero
-- Accesible
-- Poseer la fricción necesaria para evitar el deslizamiento de objetos.
-- Portátil 
-
-
-## Propuesta de solución
-Pulgar mioeléctrico protésico, apoyado por un músculo neumático, diseñado para restaurar el agarre de fuerza y el movimiento parcial de este miembro.
-
-## Docentes del curso
-
-- Paulo Camilo Alberto Vela Anton
-- Renzo Jose Chan Rios
-- Umberto Lewis De la Cruz Rodriguez
-- Juan Manuel Zuñiga Mamamni
-- Jose Alonso Caceres del Aguila
-- Andres Arturo Rodriguez De Velasco
-- Yeni Varillas Tacza
 
 ## Bibliografía 
 1. Global Health Data Exchange. Global Burden of Disease [internet]. 2019 [Citado 13 Sep 2023]. Disponible en: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2019-permalink/5ed2741ada3f6d3537da4bec76913a24
@@ -246,7 +160,7 @@ Pulgar mioeléctrico protésico, apoyado por un músculo neumático, diseñado p
 10.	IEEE Engineering in Medicine and Biology Society, Annual International Conference of the IEEE Engineering in Medicine and Biology Society 35 2013.07.03-07 Osaka, EMBC 35 2013.07.03-07 Osaka, EMBS Annual Conference 35 2013.07.03-07 Osaka. 2013 35th annual international conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 3-7 July 2013, Osaka, Japan [Internet]. 2013 [citado 12 de septiembre de 2023]. Disponible en: https://ieeexplore.ieee.org/document/6610858
 11.	Taylor CL, Schwarz RJ. The Anatomy and Mechanics of the Human Hand [Internet]. 1955 [citado 12 de septiembre de 2023]. Disponible en: https://www.oandplibrary.org/al/pdf/1955_02_022.pdf
 12.	Jan J. Stokosa. Opciones para las prótesis de los miembros. En: Manual MSD. 2021. 
-13.	Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://pubmed.ncbi.nlm.nih.gov/34043536/(https://www.sciencedirect.com/science/article/abs/pii/S0208521619304693)
+13.	[Kieliba P, Clode D, Maimon-Mor RO, Makin TR. Robotic hand augmentation drives changes in neural body representation [Internet]. Vol. 6, Sci. Robot. 2021. Disponible en: https://pubmed.ncbi.nlm.nih.gov/34043536/](https://www.sciencedirect.com/science/article/abs/pii/S0208521619304693)
 14.	Lewin Group T. VA/DoD_Clinical_Practice_Guidelines:_Management_of_Upper_Limb_Amputation_Rehabilitation_Provider_Summary [Internet]. 2022. Disponible en: https://www.healthquality.va.gov/guidelines/Rehab/ULA/VADoDULACPG_ProviderSummary_Final_508.pdf
 15.	Oliver-Salazar MA, Szwedowicz-Wasik D, Blanco-Ortega A, Aguilar-Acevedo F, Ruiz-González R. Characterization of pneumatic muscles and their use for the position control of a mechatronic finger. Mechatronics (Oxf) [Internet]. 2017;42:25–40. Disponible en: https://www.sciencedirect.com/science/article/pii/S0957415816301532
 16.	Sayar H, Karajagikar J, Deshmukh S. Prosthetic limb arm for armless human. Mater Today [Internet]. 2023;72:1056–60. Disponible en: https://www.sciencedirect.com/science/article/pii/S221478532205982X
@@ -257,3 +171,4 @@ Pulgar mioeléctrico protésico, apoyado por un músculo neumático, diseñado p
 21. Controzzi, Clemente, Cipriani, Carrozza. Prótesis de mano multifuncional y autónoma. [Patente]. España: 2016. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DES2571880T3
 22. HOCAOĞLU ÇETİNSOY. Una prótesis de mano. [Patente]. Turkia: 2022. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DWO2022132105A1
 23. Qipei, W. Chang, L. Chen, Y. Shanlin, C. Prótesis trans de articulación de muñeca y pulgar impresora 3D. [Patente]. China: 2023. Disponible en: https://worldwide.espacenet.com/patent/search?q=pn%3DCN218652141U
+
