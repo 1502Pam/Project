@@ -6,42 +6,42 @@
 
 ## Código de programación sensor FSR - micromotor de vibración
 
-#define motorPin 5
-#define sensorpin A0
-int sensorFSR;
-int tmap;
-void setup(){
- pinMode(motorPin, OUTPUT);
- pinMode(sensorpin, INPUT);
- Serial.begin(9600);//iniciación de comunicación serial a 9600 baudios
-}
+#define motorPin 5 <p>
+#define sensorpin A0 <p>
+int sensorFSR; <p>
+int tmap; <p>
+void setup(){ <p>
+ pinMode(motorPin, OUTPUT); <p>
+ pinMode(sensorpin, INPUT); <p>
+ Serial.begin(9600);//iniciación de comunicación serial a 9600 baudios <p>
+} <p>
 
-void loop(){
- sensorFSR=analogRead(A0);
- Serial.println(sensorFSR);
- tmap= map(sensorFSR, 0, 1023, 0, 255);
- if(sensorFSR>750){/sujetando cerca a 253 gramo-fuerza
- 	Serial.print("Se esta aplicando demasiada fuerza");
-	Serial.print("\nDisminuir presion");
- 	Serial.print(" \n");
-   	analogWrite(motorPin, tmap);
-  }
- else{
-   digitalWrite(motorPin, LOW);
-   	Serial.print("Presion Adecuada");
- 	Serial.print(" \n");
-  }   
-}
+void loop(){ <p>
+ sensorFSR=analogRead(A0); <p>
+ Serial.println(sensorFSR); <p>
+ tmap= map(sensorFSR, 0, 1023, 0, 255); <p>
+ if(sensorFSR>750){/sujetando cerca a 253 gramo-fuerza <p>
+ 	Serial.print("Se esta aplicando demasiada fuerza"); <p>
+	Serial.print("\nDisminuir presion"); <p>
+ 	Serial.print(" \n"); <p>
+   	analogWrite(motorPin, tmap); <p>
+  } <p>
+ else{ <p>
+   digitalWrite(motorPin, LOW); <p>
+   	Serial.print("Presion Adecuada"); <p>
+ 	Serial.print(" \n"); <p>
+  }   <p>
+}  <p>
 
 ## Código de programación sensor EMG - minibomba de aire - 2 microválvulas
 
-#define EMG_SENSOR_PIN A1         // Sensor EMG conectado al pin analógico A1 <p>
-#define AIR_PUMP_PIN 6            // Bomba conectada al pin digital 6 <p>
-#define VALVE1_PIN 2              // Microválvula 1 conectada al pin digital 2 <p>
-#define VALVE2_PIN 7              // Microválvula 2 conectada al pin digital 7 <p>
+#define EMG_SENSOR_PIN A1 <p>
+#define AIR_PUMP_PIN 6 <p>
+#define VALVE1_PIN 2   <p>
+#define VALVE2_PIN 7   <p>
 
 int sensor_EMG; <p>
-int umbral = 300;                 // Umbral de activación para la señal EMG <p>
+int umbral = 300; <p>
 
 void setup() { <p>
     pinMode(EMG_SENSOR_PIN, INPUT); <p>
