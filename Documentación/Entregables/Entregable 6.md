@@ -14,7 +14,7 @@
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG2.jpeg"> 
 
 <h1> Diagrama de flujo </h1> 
-
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/flowchart.png"> 
 
 <h1> Video </h1> 
 
