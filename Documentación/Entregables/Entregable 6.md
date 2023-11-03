@@ -1,8 +1,10 @@
-## Carcasa 1.1V
+<h1> Carcasa 1.1V </h1>
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/carcasa%201.1V.jpeg"> 
-## Carcasa 1.2V
+  
+<h1> Carcasa 1.2V </h1>
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/carcasa%201.2V.jpeg"> 
-## Pulgar
+  
+<h1> Pulgar </h1>
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/pulgar.jpeg"> 
 
 Link OnShape
