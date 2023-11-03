@@ -1,3 +1,16 @@
+<h1> Carcasa 1.1V </h1>
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/carcasa%201.1V.jpeg"> 
+  
+<h1> Carcasa 1.2V </h1>
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/carcasa%201.2V.jpeg"> 
+  
+<h1> Pulgar </h1>
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/pulgar.jpeg"> 
+
+Link OnShape
+https://cad.onshape.com/documents/3dd639875da624873c76d255/w/840f5bff105d4cd6ea5c74b6/e/706700bb52c3b1448e8044bc?renderMode=0&uiState=6544e09e31db79713a32b8dc
+
+
 <h1> Diseño esquemático del circuito electrónico </h1> 
 
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electronico_actualizado.png"> 
