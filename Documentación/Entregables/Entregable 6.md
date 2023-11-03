@@ -13,7 +13,7 @@ https://cad.onshape.com/documents/3dd639875da624873c76d255/w/840f5bff105d4cd6ea5
 
 <h1> Diseño esquemático del circuito electrónico </h1> 
 
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electronico_actualizado.png"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/subirlo.jpeg"> 
 
 <h1> Código de programación </h1> 
 
