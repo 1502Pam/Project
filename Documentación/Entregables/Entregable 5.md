@@ -1,6 +1,6 @@
 <h1> Esquema Electrónico del concepto de solución </h1> 
 
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electr%C3%B3nico.jpeg">
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/Esquema_electronico_actualizado.png">
 
 ## Modelado 3D de los componentes por separado
 
