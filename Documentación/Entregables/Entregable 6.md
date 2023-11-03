@@ -10,7 +10,7 @@
 
 ## Código de programación sensor EMG - minibomba de aire - 2 microválvulas
 
-<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG1.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG1_act.jpeg"> 
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG2.jpeg"> 
 
 <h1> Diagrama de flujo </h1> 
