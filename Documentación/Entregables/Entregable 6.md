@@ -35,19 +35,19 @@ void loop(){
 
 ## Código de programación sensor EMG - minibomba de aire - 2 microválvulas
 
-#define EMG_SENSOR_PIN A1         // Sensor EMG conectado al pin analógico A1
-#define AIR_PUMP_PIN 6            // Bomba conectada al pin digital 6
-#define VALVE1_PIN 2              // Microválvula 1 conectada al pin digital 2
-#define VALVE2_PIN 7              // Microválvula 2 conectada al pin digital 7
+#define EMG_SENSOR_PIN A1         // Sensor EMG conectado al pin analógico A1 <p>
+#define AIR_PUMP_PIN 6            // Bomba conectada al pin digital 6 <p>
+#define VALVE1_PIN 2              // Microválvula 1 conectada al pin digital 2 <p>
+#define VALVE2_PIN 7              // Microválvula 2 conectada al pin digital 7 <p>
 
-int sensor_EMG;
-int umbral = 300;                 // Umbral de activación para la señal EMG
+int sensor_EMG; <p>
+int umbral = 300;                 // Umbral de activación para la señal EMG <p>
 
-void setup() {
-    pinMode(EMG_SENSOR_PIN, INPUT);
-    pinMode(AIR_PUMP_PIN, OUTPUT);
-    pinMode(VALVE1_PIN, OUTPUT);
-    pinMode(VALVE2_PIN, OUTPUT);
+void setup() { <p>
+    pinMode(EMG_SENSOR_PIN, INPUT); <p>
+    pinMode(AIR_PUMP_PIN, OUTPUT); <p>
+    pinMode(VALVE1_PIN, OUTPUT); <p>
+    pinMode(VALVE2_PIN, OUTPUT); <p>
 
     Serial.begin(9600);
 }
@@ -82,6 +82,9 @@ void loop() {
     }
 
 }
+
+
+
 
 
 <h1> Diagrama de flujo </h1> 
