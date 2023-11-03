@@ -6,89 +6,15 @@
 
 ## Código de programación sensor FSR - micromotor de vibración
 
-#define motorPin 5 <p>
-#define sensorpin A0 <p>
-int sensorFSR; <p>
-int tmap; <p>
-void setup(){ <p>
- pinMode(motorPin, OUTPUT); <p>
- pinMode(sensorpin, INPUT); <p>
- Serial.begin(9600);//iniciación de comunicación serial a 9600 baudios <p>
-} <p>
-
-void loop(){ <p>
- sensorFSR=analogRead(A0); <p>
- Serial.println(sensorFSR); <p>
- tmap= map(sensorFSR, 0, 1023, 0, 255); <p>
- if(sensorFSR>750){/sujetando cerca a 253 gramo-fuerza <p>
- 	Serial.print("Se esta aplicando demasiada fuerza"); <p>
-	Serial.print("\nDisminuir presion"); <p>
- 	Serial.print(" \n"); <p>
-   	analogWrite(motorPin, tmap); <p>
-  } <p>
- else{ <p>
-   digitalWrite(motorPin, LOW); <p>
-   	Serial.print("Presion Adecuada"); <p>
- 	Serial.print(" \n"); <p>
-  }   <p>
-}  <p>
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/c%C3%B3digo_sensorFSR.jpeg"> 
 
 ## Código de programación sensor EMG - minibomba de aire - 2 microválvulas
 
-#define EMG_SENSOR_PIN A1 <p>
-#define AIR_PUMP_PIN 6 <p>
-#define VALVE1_PIN 2   <p>
-#define VALVE2_PIN 7   <p>
-
-int sensor_EMG; <p>
-int umbral = 300; <p>
-
-void setup() { <p>
-    pinMode(EMG_SENSOR_PIN, INPUT); <p>
-    pinMode(AIR_PUMP_PIN, OUTPUT); <p>
-    pinMode(VALVE1_PIN, OUTPUT); <p>
-    pinMode(VALVE2_PIN, OUTPUT); <p>
-
-    Serial.begin(9600);
-}
-
-void loop() {
-    sensor_EMG = analogRead(A1);
-    Serial.println(sensor_EMG);
-
-    if (sensor_EMG >= umbral) {
-        digitalWrite(AIR_PUMP_PIN, HIGH);
-
-        // Activar válvula 1
-        digitalWrite(VALVE1_PIN, HIGH);
-        delay(1000);
-
-        // Desactivar válvula 1
-        digitalWrite(VALVE1_PIN, LOW);
-        digitalWrite(AIR_PUMP_PIN, LOW);
-
-        if (sensor_EMG < umbral){
-          //Activar válvula 2
-          digitalWrite(VALVE2_PIN,HIGH);
-          delay(1000);
-        }
-
-    } 
-    
-    else {
-        Serial.print("No se detectó el umbral mínimo para activar el funcionamiento de la prótesis\n");
-        digitalWrite(AIR_PUMP_PIN, LOW);
-        digitalWrite(VALVE1_PIN, LOW);
-    }
-
-}
-
-
-
-
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG1.jpeg"> 
+<image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/codigo_EMG2.jpeg"> 
 
 <h1> Diagrama de flujo </h1> 
-
+<image src ="https://github.com/1502Pam/Project/blob/6d18ea67b34ed118cf2e5aaf70f9388a98625c85/Im%C3%A1genes/flowchart%20.png"> 
 
 <h1> Video </h1> 
 
