@@ -4,3 +4,7 @@
 <image src ="https://github.com/1502Pam/Project/blob/main/Im%C3%A1genes/video_sensorFSR.mp4"> 
 
 <h1> Diagrama de flujo </h1> 
+
+
+https://github.com/1502Pam/Project/assets/143039675/48213393-76ca-4721-b0cd-c3cb8b63df7f
+
