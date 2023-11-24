@@ -1,0 +1,7 @@
+Respecto a la parte del circuito hubo varios retrasos y cosas por mejorar ,empezando por que componentes comprar 
+cuanto será el voltaje y amperaje necesario ,muy aparte de los componentes necesarios para el circuito se optó por
+unos componentes adicionales para proteger al nanoarduino , como los transistores,mosfet ya que estos me sirven para controlar dispositivos de mayor potencia o corriente para evitar que se sobrecargue 
+el nanoarduino   y diodos rectificadores para el flujo de una corriente inversa o polaridades inversas cuando se apaguen los motores .
+Se intentó hacer PCB pero con el cambio constante que teníamos ocasionaba   un diagrama electronico transitorio y por ultimo una vez hecho el circuito con la 
+ayuda de un multimetro se fue verificacndo el voltaje y amperaje en cada componente sobre todo en el nanoarduino que es el mas sensible con respecto
+al amperaje y voltaje que se le puede suministrar .
