@@ -1,5 +1,6 @@
 
 ### Link del Hito 1: 
 
-https://www.canva.com/design/DAFyXEiUJds/SIsLQH_Lj8nzwdkbeGVY3w/edit?utm_content=DAFyXEiUJds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAF1BCcGKeg/3JfR_ZodMZpTrp8v49AfNw/edit?utm_content=DAF1BCcGKeg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
