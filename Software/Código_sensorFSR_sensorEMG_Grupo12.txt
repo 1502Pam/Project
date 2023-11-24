@@ -1,1 +1,3 @@
-Explicación:
+Descripción:
+El sensor EMG controla la decisión de flexión y extensión, este tiene integrado un filtro EMA el cual se encarga de encontrar el promedio de picos para detectar un cambio significativo pues el sensor EMG detectaba muchos picos, pero solo nos importaba cambios bruscos en el valor ya que esto significaba la señal de extensión o flexión los cuales fueron diferenciados mediante un contador. Si se elegía realizar la flexión se activa la bomba y la válvula conectada a ella permitiendo el flujo de aire directo al músculo neumático, después de 4 segundos se apaga la válvula y la bomba de aire. 
+El contador cambia a 2, después de realizar la flexión para considerar al siguiente pico como extensión. Se espera 4 segundos después de ser activada la extensión para abrir la válvula de expulsión y confirmar que la válvula hacia la bomba de aire se encuentra cerrada.  
