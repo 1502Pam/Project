@@ -1,0 +1,3 @@
+Descripción:
+En la primera parte se saca 10 veces el promedio del estado basal del sensor FSR ya que nuestro sensor no tenía un valor fijo. 
+Esto activa al mini motor de vibración el cual es controlado por los valores entregados por el sensor.
